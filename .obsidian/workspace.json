@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "c5f1d69f4488904c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1f86bce9b823a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b56cf5403eb5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/磁盘与文件系统/RAID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8557c93aadad4816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/Mysql/常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63062b768a670b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/FAQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5287815437ba6db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9082507fd35848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2891ea1381a86a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8966562da550795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2aed4392e7ab137",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23511e79164b5f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c164f48d3eae1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7554dc999b4ef7ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/FAQ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a21f3ce3c44fcd33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker/FAQ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5afb7136b1ac955f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5ce126167ff9166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker/FAQ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "63062b768a670b43",
+  "lastOpenFiles": [
+    "Docker/nsenter工具.md",
+    "数据库/Mysql/常用命令.md",
+    "监控告警/snmp-exporter监控防火墙.md",
+    "监控告警/Prometheus+alertmanager+grafana.md",
+    "监控告警/node-exporter监控硬件资源.md",
+    "监控告警/blackbox-exporter.md",
+    "数据库/ES.md",
+    "数据库/ETCD.md",
+    "数据库/Pulsar.md",
+    "Linux/磁盘与文件系统/linux磁盘-文件系统.md",
+    "Linux/磁盘与文件系统/RAID.md",
+    "数据库/Mysql/故障.md",
+    "Linux/系统安装",
+    "Linux/磁盘与文件系统",
+    "Linux/系统安装/Linux制作装机盘.md",
+    "数据库/Mysql",
+    "K8S/K8S-存活探针与就绪探针.md",
+    "K8S/K8S-Deployment.md",
+    "K8S/K8S-RBAC-ServiceAccount.md",
+    "K8S/FAQ.md",
+    "K8S/kubeadm-install-k8s.md",
+    "K8S/K8S-卷.md",
+    "K8S/Metrics-server部署.md",
+    "Linux/ajenti2.md",
+    "Linux/系统安装/Ubuntu20.04无人值守.md",
+    "Linux/FQA.md",
+    "Linux/snmpd部署.md",
+    "Linux/deb包制作.md",
+    "Docker/docker bind与volume.md",
+    "未命名 1",
+    "消息队列",
+    "虚拟化/PVE",
+    "image/Pasted image 20230412151017.png",
+    "数据同步与高可用",
+    "负载均衡",
+    "数据库",
+    "虚拟化",
+    "image/Pasted image 20230412145831.png"
+  ]
+}
