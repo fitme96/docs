@@ -18,7 +18,8 @@ node-exporter:
 ```
 
 访问metricss
-![[Pasted image 20230412151017.png]]
+
+http://192.168.65.8:9100/metrics
 
 ```yaml
 # my global config

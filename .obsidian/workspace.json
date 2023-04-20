@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fb1f86bce9b823a0",
+        "id": "c910c31b9958c5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "03b56cf5403eb5fc",
+            "id": "9cc4498075644e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/磁盘与文件系统/RAID.md",
+                "file": "Linux/防火墙/iptables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8557c93aadad4816",
+            "id": "c9ceb589408ad349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Mysql/常用命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63062b768a670b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/FAQ.md",
+                "file": "Linux/防火墙/iptables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/FAQ.md",
+                "file": "Linux/防火墙/iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/FAQ.md",
+                "file": "Linux/防火墙/iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/FAQ.md"
+                "file": "Linux/防火墙/iptables.md"
               }
             }
           }
@@ -171,14 +159,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63062b768a670b43",
+  "active": "c9ceb589408ad349",
   "lastOpenFiles": [
-    "Docker/nsenter工具.md",
-    "数据库/Mysql/常用命令.md",
-    "监控告警/snmp-exporter监控防火墙.md",
-    "监控告警/Prometheus+alertmanager+grafana.md",
+    "Linux/防火墙/ufw.md",
+    "Linux/防火墙/iptables.md",
+    "Pasted image 20230412151017.png.md",
+    "Linux/防火墙",
+    "Docker/docker bind与volume.md",
     "监控告警/node-exporter监控硬件资源.md",
     "监控告警/blackbox-exporter.md",
+    "image/Pasted image 20230412151017.png",
+    "image/Pasted image 20230412145831.png",
+    "数据库/Mysql/常用命令.md",
+    "Docker/Docker Swarm.md",
+    "Docker/FAQ.md",
+    "Docker/nsenter工具.md",
+    "监控告警/snmp-exporter监控防火墙.md",
+    "监控告警/Prometheus+alertmanager+grafana.md",
     "数据库/ES.md",
     "数据库/ETCD.md",
     "数据库/Pulsar.md",
@@ -196,20 +193,11 @@
     "K8S/kubeadm-install-k8s.md",
     "K8S/K8S-卷.md",
     "K8S/Metrics-server部署.md",
-    "Linux/ajenti2.md",
-    "Linux/系统安装/Ubuntu20.04无人值守.md",
-    "Linux/FQA.md",
-    "Linux/snmpd部署.md",
-    "Linux/deb包制作.md",
-    "Docker/docker bind与volume.md",
     "未命名 1",
     "消息队列",
     "虚拟化/PVE",
-    "image/Pasted image 20230412151017.png",
     "数据同步与高可用",
     "负载均衡",
-    "数据库",
-    "虚拟化",
-    "image/Pasted image 20230412145831.png"
+    "数据库"
   ]
 }
