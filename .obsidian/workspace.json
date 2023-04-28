@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c910c31b9958c5c7",
+        "id": "d0426425df10702b",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc4498075644e75",
+            "id": "a7b7f095085fa908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "Linux/系统安装/Ubuntu20.04无人值守.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9ceb589408ad349",
+            "id": "f56049e6c4c39853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "23511e79164b5f9d",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/防火墙/iptables.md"
+                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md"
               }
             }
           }
@@ -159,21 +159,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c9ceb589408ad349",
+  "active": "f56049e6c4c39853",
   "lastOpenFiles": [
-    "Linux/防火墙/ufw.md",
+    "Linux/系统安装/Ubuntu20.04无人值守.md",
+    "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
+    "Linux/系统安装/Linux制作装机盘.md",
+    "虚拟化/PVE/FAQ.md",
     "Linux/防火墙/iptables.md",
+    "学院项目/kolla-ansible.md",
+    "学院项目/openstack.md",
+    "学院项目/系统优化.md",
+    "学院项目",
+    "虚拟化/openstack",
+    "Linux/防火墙/ufw.md",
     "Pasted image 20230412151017.png.md",
     "Linux/防火墙",
-    "Docker/docker bind与volume.md",
+    "DevOps/Docker/docker bind与volume.md",
     "监控告警/node-exporter监控硬件资源.md",
     "监控告警/blackbox-exporter.md",
     "image/Pasted image 20230412151017.png",
     "image/Pasted image 20230412145831.png",
     "数据库/Mysql/常用命令.md",
-    "Docker/Docker Swarm.md",
-    "Docker/FAQ.md",
-    "Docker/nsenter工具.md",
+    "DevOps/Docker/Docker Swarm.md",
+    "DevOps/Docker/FAQ.md",
+    "DevOps/Docker/nsenter工具.md",
     "监控告警/snmp-exporter监控防火墙.md",
     "监控告警/Prometheus+alertmanager+grafana.md",
     "数据库/ES.md",
@@ -184,20 +193,11 @@
     "数据库/Mysql/故障.md",
     "Linux/系统安装",
     "Linux/磁盘与文件系统",
-    "Linux/系统安装/Linux制作装机盘.md",
     "数据库/Mysql",
     "K8S/K8S-存活探针与就绪探针.md",
-    "K8S/K8S-Deployment.md",
-    "K8S/K8S-RBAC-ServiceAccount.md",
-    "K8S/FAQ.md",
-    "K8S/kubeadm-install-k8s.md",
-    "K8S/K8S-卷.md",
-    "K8S/Metrics-server部署.md",
     "未命名 1",
     "消息队列",
     "虚拟化/PVE",
-    "数据同步与高可用",
-    "负载均衡",
-    "数据库"
+    "数据同步与高可用"
   ]
 }
