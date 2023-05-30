@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/系统安装/Ubuntu20.04无人值守.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f56049e6c4c39853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
+                "file": "学院项目/测试.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bba0e64f09260a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
-                "collapseAll": false,
+                "file": "学院项目/测试.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
+                "file": "学院项目/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/系统安装/CentOS7.7-kickstart自动安装.md"
+                "file": "学院项目/测试.md"
               }
             }
           }
@@ -159,45 +154,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f56049e6c4c39853",
+  "active": "a7b7f095085fa908",
   "lastOpenFiles": [
+    "学院项目/测试记录.md",
+    "学院项目/系统优化.md",
+    "学院项目/openstack.md",
+    "DevOps/Docker/docker bind与volume.md",
+    "DevOps/Docker/Docker Swarm.md",
+    "Linux/防火墙/ufw.md",
+    "Linux/防火墙/iptables.md",
+    "DevOps/Docker/nsenter工具.md",
+    "DevOps/Docker/FAQ.md",
+    "go/go install.md",
+    "未命名.canvas",
+    "go",
+    "虚拟化/KVM.md",
+    "学院项目/测试.md",
+    "学院项目/kolla-ansible.md",
+    "学院项目/openstack 1.md",
     "Linux/系统安装/Ubuntu20.04无人值守.md",
     "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
     "Linux/系统安装/Linux制作装机盘.md",
     "虚拟化/PVE/FAQ.md",
-    "Linux/防火墙/iptables.md",
-    "学院项目/kolla-ansible.md",
-    "学院项目/openstack.md",
-    "学院项目/系统优化.md",
     "学院项目",
     "虚拟化/openstack",
-    "Linux/防火墙/ufw.md",
     "Pasted image 20230412151017.png.md",
     "Linux/防火墙",
-    "DevOps/Docker/docker bind与volume.md",
     "监控告警/node-exporter监控硬件资源.md",
     "监控告警/blackbox-exporter.md",
     "image/Pasted image 20230412151017.png",
     "image/Pasted image 20230412145831.png",
     "数据库/Mysql/常用命令.md",
-    "DevOps/Docker/Docker Swarm.md",
-    "DevOps/Docker/FAQ.md",
-    "DevOps/Docker/nsenter工具.md",
     "监控告警/snmp-exporter监控防火墙.md",
     "监控告警/Prometheus+alertmanager+grafana.md",
     "数据库/ES.md",
-    "数据库/ETCD.md",
-    "数据库/Pulsar.md",
-    "Linux/磁盘与文件系统/linux磁盘-文件系统.md",
-    "Linux/磁盘与文件系统/RAID.md",
-    "数据库/Mysql/故障.md",
     "Linux/系统安装",
     "Linux/磁盘与文件系统",
     "数据库/Mysql",
-    "K8S/K8S-存活探针与就绪探针.md",
     "未命名 1",
     "消息队列",
-    "虚拟化/PVE",
-    "数据同步与高可用"
+    "虚拟化/PVE"
   ]
 }

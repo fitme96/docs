@@ -26,10 +26,10 @@ docker service ls
 #### dockerd 设置代理
 
 root@sec:~# mkdir -p /etc/systemd/system/docker.service.d/
-root@sec:~# cat >> /etc/systemd/system/docker.service.d/proxy.conf << EOF
+root@sec:~# cat >> /etc/systemd/system/docker.service.d/https_proxy.conf << EOF
 Environment="HTTP_PROXY=http://192.168.60.49:7890/"
 Environment="HTTPS_PROXY=http://192.168.60.49:7890/"
-Environment="NO_PROXY=localhost,127.0.0.1,.example.com
+Environment="NO_PROXY=localhost,127.0.0.1,.example.com"s
 EOF
 systemctl daemon-reload 
 systemctl restart docker
