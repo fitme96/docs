@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 storcli安装包[storcli download](https://docs.broadcom.com/docs/007.0709.0000.0000_Unified_StorCLI.zip),下载解压后，安装rpm包
 ```shell
 [root@localhost ~]# cd Unified_storcli_all_os
@@ -34,4 +41,5 @@ Elements in grown defect list: 0   #有无坏道
 
 ```
 ### 参考
+
 [storcli的安装](https://ahelpme.com/hardware/lsi/install-the-new-storcli-to-manage-lsi-avago-broadcom-megaraid-controller-under-centos-7/)

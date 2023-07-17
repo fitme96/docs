@@ -1,3 +1,4 @@
+docker-compose.yml
 ```yaml
 version: '2.1'
 
@@ -38,3 +39,23 @@ volumes:
   prometheus_data:
 
 ```
+
+alertmanager 配置文件config.yml
+
+```yaml
+root@Tools:/var/lib/docker/volumes/prometheus_alertmanager/_data# cat config.yml 
+global:
+  resolve_timeout: 1m
+route:
+  group_by: ['alertname']
+  group_wait: 5s
+  group_interval: 5m
+  repeat_interval: 3h
+  receiver: 'web.hook'
+receivers:
+  - name: 'web.hook'
+    webhook_configs:
+      - url: 'http://192.168.230.12:8001/alert'
+        send_resolved: true
+```
+

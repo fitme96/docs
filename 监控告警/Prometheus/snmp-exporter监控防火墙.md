@@ -12,6 +12,27 @@
       - '9116:9116'
 ```
 
+prometheus.yml 增加如下
+```yaml
+  - job_name: "snmp-firewall"
+    static_configs:
+      - targets:
+        - "192.168.255.1"
+    metrics_path: "/snmp"
+    params:
+      module: [firewall]
+    scrape_interval: 10s
+    scrape_timeout: 5s
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: 192.168.230.20:9116  # The SNMP exporter's real hostname:port.
+```
+
+
 ### 生成snmp.yml
 
 依赖go环境

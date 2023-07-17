@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0426425df10702b",
+        "id": "aa1c84ca5783a5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b7f095085fa908",
+            "id": "97cc9ec9cf090cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学院项目/测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "23511e79164b5f9d",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学院项目/测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学院项目/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "学院项目/测试.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,53 +138,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false
     }
   },
-  "active": "a7b7f095085fa908",
+  "active": "97cc9ec9cf090cdd",
   "lastOpenFiles": [
-    "学院项目/测试记录.md",
-    "学院项目/系统优化.md",
-    "学院项目/openstack.md",
-    "DevOps/Docker/docker bind与volume.md",
-    "DevOps/Docker/Docker Swarm.md",
-    "Linux/防火墙/ufw.md",
-    "Linux/防火墙/iptables.md",
+    "监控告警/Prometheus/snmp-exporter监控防火墙.md",
     "DevOps/Docker/nsenter工具.md",
     "DevOps/Docker/FAQ.md",
-    "go/go install.md",
+    "DevOps/Docker/docker容器支持ipv4-ipv6双栈.md",
+    "DevOps/Docker/docker挂载文件不同步.md",
+    "DevOps/Docker/docker-overlay与主机网络打通.md",
+    "DevOps/Docker/Docker Swarm.md",
+    "DevOps/Docker/docker bind与volume.md",
+    "DevOps/Docker/docker 安装.md",
+    "Linux/防火墙/iptables.md",
+    "Linux/Systemd.md",
+    "Linux/systemd",
+    "网络/DNS.md",
+    "网络/网络工具.md",
+    "网络/ip与掩码.md",
+    "Linux/防火墙/ufw.md",
+    "网络/路由.md",
+    "网络",
+    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
+    "监控告警/Prometheus",
+    "监控告警/prometheus.md",
+    "监控告警/Prometheus/blackbox-exporter.md",
+    "监控告警/Prometheus/node-exporter监控硬件资源.md",
+    "数据库/Pulsar.md",
+    "数据库/ETCD.md",
+    "数据库/ES.md",
+    "数据库/Mysql/常用命令.md",
+    "数据库/Mysql/故障.md",
+    "Linux/FQA.md",
+    "Pasted image 20230616094936.png",
+    "虚拟化/qemu-kvm",
+    "ansible",
     "未命名.canvas",
     "go",
-    "虚拟化/KVM.md",
-    "学院项目/测试.md",
-    "学院项目/kolla-ansible.md",
-    "学院项目/openstack 1.md",
-    "Linux/系统安装/Ubuntu20.04无人值守.md",
-    "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
-    "Linux/系统安装/Linux制作装机盘.md",
-    "虚拟化/PVE/FAQ.md",
-    "学院项目",
+    "学院标准化",
     "虚拟化/openstack",
-    "Pasted image 20230412151017.png.md",
     "Linux/防火墙",
-    "监控告警/node-exporter监控硬件资源.md",
-    "监控告警/blackbox-exporter.md",
     "image/Pasted image 20230412151017.png",
     "image/Pasted image 20230412145831.png",
-    "数据库/Mysql/常用命令.md",
-    "监控告警/snmp-exporter监控防火墙.md",
-    "监控告警/Prometheus+alertmanager+grafana.md",
-    "数据库/ES.md",
-    "Linux/系统安装",
-    "Linux/磁盘与文件系统",
-    "数据库/Mysql",
-    "未命名 1",
-    "消息队列",
-    "虚拟化/PVE"
+    "Linux/系统安装"
   ]
 }
