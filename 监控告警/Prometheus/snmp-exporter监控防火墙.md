@@ -30,7 +30,42 @@ prometheus.yml 增加如下
         target_label: instance
       - target_label: __address__
         replacement: 192.168.230.20:9116  # The SNMP exporter's real hostname:port.
+
 ```
+
+snmp告警规则
+```
+cat rules/snmp.rules 
+groups:
+- name: firewall
+  rules:
+  - alert: system11
+    expr: system11{system11!="", system11=~"^(8[9]|[9][0-9]|100)$"}
+    for: 10s
+    labels:
+      severity: page
+    annotations:
+      summary: "实例 {{ $labels.instance }} 设备温度过高"
+      description: "{{ $labels.instance }} 温度{{ $labels.system11}}"
+  - alert: cpuUsage
+    expr: cpuUsage{cpuUsage!="", cpuUsage=~"^(8[9]|[9][0-9]|100)$"}
+    for: 10s
+    labels:
+      severity: page
+    annotations:
+      summary: "实例 {{ $labels.instance }} CPU使用率过高"
+      description: "{{ $labels.instance }} CPU使用率为{{ $labels.cpuUsage}}"
+  - alert: memUsage
+    expr: memUsage{memUsage!="", memUsage=~"^(8[9]|[9][0-9]|100)$"}
+    for: 10s
+    labels:
+      severity: page
+    annotations:
+      summary: "实例 {{ $labels.instance }} 内存使用率过高"
+      description: "{{ $labels.instance }} 内存使用率为{{ $labels.memUsage}}"
+
+```
+
 
 
 ### 生成snmp.yml

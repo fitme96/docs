@@ -40,10 +40,44 @@ volumes:
 
 ```
 
+prometheus配置文件prometheus.yml
+```
+# my global config
+global:
+  scrape_interval: 15s # Set the scrape interval to every 15 seconds. Default is every 1 minute.
+  evaluation_interval: 15s # Evaluate rules every 15 seconds. The default is every 1 minute.
+  # scrape_timeout is set to the global default (10s).
+
+# Alertmanager configuration
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+            - alertmanager:9093
+
+# Load rules once and periodically evaluate them according to the global 'evaluation_interval'.
+rule_files:
+  - rules/*.rules
+  # - "second_rules.yml"
+
+# A scrape configuration containing exactly one endpoint to scrape:
+# Here it's Prometheus itself.
+scrape_configs:
+  # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
+  - job_name: "prometheus"
+
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+
+    static_configs:
+      - targets: ["localhost:9090"]
+
+```
+
 alertmanager 配置文件config.yml
 
 ```yaml
-root@Tools:/var/lib/docker/volumes/prometheus_alertmanager/_data# cat config.yml 
+cat config.yml 
 global:
   resolve_timeout: 1m
 route:
@@ -56,6 +90,6 @@ receivers:
   - name: 'web.hook'
     webhook_configs:
       - url: 'http://192.168.230.12:8001/alert'
-        send_resolved: true
+        send_resolved: false
 ```
 

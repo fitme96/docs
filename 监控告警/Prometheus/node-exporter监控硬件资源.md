@@ -56,10 +56,12 @@ scrape_configs:
     file_sd_configs:
       - files:
           - "targets.yml"
-### END
+
 ```
 
+
 ```yaml
+cat targets.yml
 - targets:
     - "192.168.65.8:9100"
     - "192.168.230.20:9100"
@@ -70,6 +72,7 @@ scrape_configs:
 
 增加告警策略
 ```yaml
+cat rules/host.rules
 groups:
 - name: hostStatsAlert
   rules:
