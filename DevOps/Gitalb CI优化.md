@@ -19,15 +19,6 @@ stages:
     - export GOPATH="$CI_PROJECT_DIR/cache"
     - go test ./pkg/modsecurity 
     - go test ./pkg/middlewares/basewafrule 
-    - go test ./pkg/middlewares/common 
-    - go test ./pkg/middlewares/ipblacklist 
-    - go test ./pkg/middlewares/passwordrequire 
-    - go test ./pkg/middlewares/reject 
-    - go test ./pkg/middlewares/requestlog 
-    - go test ./pkg/middlewares/waf 
-    - go test ./pkg/server/service/nodebreaker 
-    - go test ./pkg/middlewares/requestchallenge 
-    - go test ./pkg/server/service/whitelist
     - ls $CI_PROJECT_DIR/cache
   tags:
     - docker-runner

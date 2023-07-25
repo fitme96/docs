@@ -6,7 +6,6 @@ mkdir -p /data/es
 
 chown -R 1000:1000 /data/es
 
-curl -XGET '[http://localhost:9200/_cluster/health?pretty'](http://localhost:9200/_cluster/health?pretty')
 
 ```yaml
 es.yaml
@@ -92,6 +91,36 @@ networks:
   default:
     external:
       name: sec-network
+
+
+```
+
+接口查询
+
+```shell
+查看所有索引
+curl -sSL localhost:9200/_cat/indices?v
+
+查看集群状态信息
+curl localhost:9200/_cluster/stats?pretty
+
+查看所有分片
+curl localhost:9200/_cat/shards
+
+查看集群健康状态
+curl -XGET http://localhost:9200/_cluster/health?pretty
+
+修改最大分片数，单节点默认最大分片数为1000
+persistent持久，transient临时重启会丢失
+curl -XPUT 'http://localhost:9200/_cluster/settings' -H 'Content-Type: application/json' -d'
+{
+  "persistent": {
+    "cluster.max_shards_per_node": 3000
+  }
+}'
+查看集群配置
+curl -XGET http://localhost:9200/_cluster/settings?pretty
+
 
 
 ```
