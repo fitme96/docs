@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bacaa3bbdc08c76b",
+        "id": "e1783a97aa4ba250",
         "type": "tabs",
         "children": [
           {
-            "id": "0df4e3b0020b89a8",
+            "id": "0159bcb6e4ab5683",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Docker/docker下ipv6源ip获取.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed0672554161ee9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高可用/heartbeat和DRBD/DRBD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3948cde3183cab75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高可用/heartbeat和DRBD/DRBD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433855616c771e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Gitalb CI优化.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Gitalb CI优化.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Gitalb CI优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevOps/Gitalb CI优化.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,37 +146,39 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "433855616c771e8d",
+  "active": "c2891ea1381a86a7",
   "lastOpenFiles": [
-    "DevOps/gitlab升级.md",
+    "go/命令行cobra库.md",
+    "网络/网络工具.md",
+    "DevOps/Docker/nsenter工具.md",
+    "Linux/apt离线包制作.md",
+    "go/gin/gin路由.md",
+    "DevOps/Docker/docker bind与volume.md",
+    "go/gin",
+    "数据库/Mysql/SQL.md",
+    "虚拟化/qemu-kvm/KVM.md",
+    "虚拟化/qemu-kvm/Linux-Win-MacOS虚拟机.md",
+    "虚拟化/qemu-kvm/nwfilter.md",
+    "虚拟化/qemu-kvm/qcow2操作.md",
+    "go/基础/slice.md",
+    "go/基础/delve调试.md",
+    "go/基础",
+    "DevOps/Docker/docker容器支持ipv4-ipv6双栈.md",
+    "DevOps/Docker/docker下ipv6源ip获取.md",
+    "DevOps/Docker/docker-overlay与主机网络打通.md",
+    "DevOps/Docker/Docker Swarm.md",
     "DevOps/Gitalb CI优化.md",
-    "虚拟化/PVE/使用cloud-init快速创建一台虚拟机.md",
-    "高可用/heartbeat和DRBD/heartbeat.md",
-    "学院标准化/kolla-ansible.md",
-    "学院标准化/测试记录.md",
-    "DevOps/Docker/官方registry.md",
-    "高可用/heartbeat和DRBD/ipv6支持.md",
-    "高可用/heartbeat和DRBD/脑裂处理.md",
+    "ansible/示例.md",
+    "ansible/基础.md",
+    "K8S/K8S-RBAC-ServiceAccount.md",
+    "随笔/DNS.md",
+    "随笔/证书.md",
+    "随笔/Linux效率提升.md",
+    "数据库/ETCD.md",
     "高可用/heartbeat和DRBD/DRBD.md",
     "高可用/heartbeat和DRBD",
-    "DevOps/Docker/docker下ipv6源ip获取.md",
     "高可用",
-    "虚拟化/PVE/FAQ.md",
-    "消息队列/kafka-ipv6.md",
-    "监控告警/Prometheus/黑盒监控.md",
-    "数据库/Mysql/故障.md",
-    "网络/ip与掩码.md",
-    "网络/DNS.md",
-    "网络/网络工具.md",
-    "网络/路由.md",
-    "随笔/使用Linux效率提升.md",
-    "随笔/证书.md",
-    "随笔/DNS.md",
-    "随笔/Docker与DevOps结合.md",
     "Pasted image 20230720143427.png",
-    "数据库/ES.md",
-    "K8S/FAQ.md",
-    "K8S/K8S-存活探针与就绪探针.md",
     "systemd",
     "Pasted image 20230718140415.png",
     "随笔",
@@ -230,9 +187,7 @@
     "监控告警/Prometheus",
     "Pasted image 20230616094936.png",
     "虚拟化/qemu-kvm",
-    "ansible",
     "未命名.canvas",
-    "go",
     "image/Pasted image 20230412151017.png",
     "image/Pasted image 20230412145831.png"
   ]

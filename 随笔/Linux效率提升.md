@@ -9,5 +9,4 @@ alias -s py=vim
 alias -s conf=vim
 alias -s tgz='tar zxvf'
 
-
 ```
