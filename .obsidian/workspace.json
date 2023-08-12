@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1783a97aa4ba250",
+        "id": "d62d8526ff616fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "0159bcb6e4ab5683",
+            "id": "1823301c56bb0a83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "go/httpRequest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go/httpRequest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "go/httpRequest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +132,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "go/httpRequest.md"
+              }
+            }
+          },
+          {
+            "id": "8a131bb6edb61d3b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,17 +159,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c2891ea1381a86a7",
   "lastOpenFiles": [
+    "DevOps/Docker/Docker Swarm.md",
+    "go/httpRequest.md",
+    "DevOps/Docker/docker bind与volume.md",
+    "2023-08-14.md",
+    "DevOps/Docker/docker 安装.md",
+    "go/gin/gin路由.md",
+    "DevOps/Docker/docker挂载文件不同步.md",
+    "go/go install.md",
     "go/命令行cobra库.md",
     "网络/网络工具.md",
     "DevOps/Docker/nsenter工具.md",
     "Linux/apt离线包制作.md",
-    "go/gin/gin路由.md",
-    "DevOps/Docker/docker bind与volume.md",
     "go/gin",
     "数据库/Mysql/SQL.md",
     "虚拟化/qemu-kvm/KVM.md",
@@ -166,16 +189,10 @@
     "DevOps/Docker/docker容器支持ipv4-ipv6双栈.md",
     "DevOps/Docker/docker下ipv6源ip获取.md",
     "DevOps/Docker/docker-overlay与主机网络打通.md",
-    "DevOps/Docker/Docker Swarm.md",
     "DevOps/Gitalb CI优化.md",
     "ansible/示例.md",
     "ansible/基础.md",
     "K8S/K8S-RBAC-ServiceAccount.md",
-    "随笔/DNS.md",
-    "随笔/证书.md",
-    "随笔/Linux效率提升.md",
-    "数据库/ETCD.md",
-    "高可用/heartbeat和DRBD/DRBD.md",
     "高可用/heartbeat和DRBD",
     "高可用",
     "Pasted image 20230720143427.png",
