@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "go/gin/logrus日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "go/gin/logrus日志.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "go/gin/logrus日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/gin/restful.md"
+                "file": "go/gin/logrus日志.md"
               }
             }
           }
@@ -151,18 +151,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "8151a8150e05c140",
   "lastOpenFiles": [
+    "go/gin/路由分组及注册中间件.md",
+    "go/gin/logrus日志.md",
+    "go/gin/路由注册中间件.md",
+    "go/gin/文件上传下载.md",
+    "go/gin/gin 参数验证器.md",
+    "go/gin/请求头与响应头.md",
+    "go/gin/自定义错误信息.md",
+    "go/gin/restful.md",
+    "go/gin/gin路由.md",
+    "go/gin/bind绑定参数.md",
+    "go/gin/请求.md",
+    "go/gin/响应.md",
     "go/httpRequest.md",
     "go/go install.md",
-    "go/gin/restful.md",
     "go/命令行cobra库.md",
-    "go/gin/响应.md",
-    "go/gin/请求.md",
-    "go/gin/gin路由.md",
     "随笔/Linux效率提升.md",
     "数据库/Mysql/SQL.md",
     "go/基础/slice.md",
@@ -176,16 +185,8 @@
     "虚拟化/PVE/使用cloud-init快速创建一台虚拟机.md",
     "高可用/heartbeat和DRBD/heartbeat.md",
     "学院标准化/kolla-ansible.md",
-    "学院标准化/测试记录.md",
-    "DevOps/Docker/官方registry.md",
-    "高可用/heartbeat和DRBD/ipv6支持.md",
-    "高可用/heartbeat和DRBD/脑裂处理.md",
     "高可用/heartbeat和DRBD",
     "高可用",
-    "虚拟化/PVE/FAQ.md",
-    "消息队列/kafka-ipv6.md",
-    "监控告警/Prometheus/黑盒监控.md",
-    "数据库/Mysql/故障.md",
     "Pasted image 20230720143427.png",
     "systemd",
     "Pasted image 20230718140415.png",
