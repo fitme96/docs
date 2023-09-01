@@ -75,7 +75,7 @@ func main() {
 	r.GET("/articles/:id", _getdetail)
 	r.POST("/articles", _create)
 	r.PUT("/articles/:id", _update)
-	r.DELETE("/aarticles/:id", _delete)
+	r.DELETE("/sarticles/:id", _delete)
 	r.Run(":8080")
 }
 

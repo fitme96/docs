@@ -23,3 +23,6 @@ ExecStop=/usr/sbin/netfilter-persistent stop
 - "Conflicts"关键字表示两个服务之间存在冲突，只能同时运行一个。
 - "After"关键字表示一个服务应该在另一个服务之后启动。
 - "Before"关键字表示一个服务应该在另一个服务之前启动，与"After"关键字相反。
+
+
+/rum/systemd/generator.late/ 目录中的service文件是systemd-sysv-generator 工具处理SysV init 脚本自动生成的， /etc/rc.d/init.d 或者 /etc/init.d/， 这样是为了兼容SysV init

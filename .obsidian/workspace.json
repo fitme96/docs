@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d760cc7c3d1cdd",
+        "id": "d62d8526ff616fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "8151a8150e05c140",
+            "id": "1823301c56bb0a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "systemd/Systemd.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "systemd/Systemd.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go/gin/restful.md",
+                "file": "systemd/Systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/gin/restful.md"
+                "file": "systemd/Systemd.md"
               }
             }
+          },
+          {
+            "id": "8a131bb6edb61d3b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,41 +159,43 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8151a8150e05c140",
+  "active": "1823301c56bb0a83",
   "lastOpenFiles": [
-    "go/httpRequest.md",
-    "go/go install.md",
-    "go/gin/restful.md",
-    "go/命令行cobra库.md",
-    "go/gin/响应.md",
+    "虚拟化/qemu-kvm/qcow2操作.md",
+    "消息队列/kafka-ipv6.md",
+    "systemd/Systemd.md",
+    "systemd/systemd命令.md",
+    "Linux/apt离线包制作.md",
+    "虚拟化/qemu-kvm/libvirtd.md",
+    "Linux/deb包制作.md",
+    "Linux/防火墙/iptables.md",
+    "未命名",
+    "DevOps/Docker/nsenter工具.md",
+    "网络/网络工具.md",
+    "网络/路由.md",
     "go/gin/请求.md",
+    "go/gin/响应.md",
+    "go/gin/restful.md",
     "go/gin/gin路由.md",
-    "随笔/Linux效率提升.md",
-    "数据库/Mysql/SQL.md",
-    "go/基础/slice.md",
-    "go/基础/delve调试.md",
-    "go/基础",
+    "go/httpRequest.md",
+    "DevOps/Docker/Docker Swarm.md",
+    "DevOps/Docker/docker bind与volume.md",
+    "2023-08-14.md",
+    "DevOps/Docker/docker 安装.md",
+    "DevOps/Docker/docker挂载文件不同步.md",
+    "go/go install.md",
+    "go/命令行cobra库.md",
     "go/gin",
-    "DevOps/Docker/docker下ipv6源ip获取.md",
-    "高可用/heartbeat和DRBD/DRBD.md",
-    "DevOps/Gitalb CI优化.md",
-    "DevOps/gitlab升级.md",
-    "虚拟化/PVE/使用cloud-init快速创建一台虚拟机.md",
-    "高可用/heartbeat和DRBD/heartbeat.md",
-    "学院标准化/kolla-ansible.md",
-    "学院标准化/测试记录.md",
-    "DevOps/Docker/官方registry.md",
-    "高可用/heartbeat和DRBD/ipv6支持.md",
-    "高可用/heartbeat和DRBD/脑裂处理.md",
+    "数据库/Mysql/SQL.md",
+    "虚拟化/qemu-kvm/KVM.md",
+    "虚拟化/qemu-kvm/Linux-Win-MacOS虚拟机.md",
+    "go/基础",
     "高可用/heartbeat和DRBD",
     "高可用",
-    "虚拟化/PVE/FAQ.md",
-    "消息队列/kafka-ipv6.md",
-    "监控告警/Prometheus/黑盒监控.md",
-    "数据库/Mysql/故障.md",
     "Pasted image 20230720143427.png",
     "systemd",
     "Pasted image 20230718140415.png",
@@ -194,7 +204,6 @@
     "网络",
     "监控告警/Prometheus",
     "Pasted image 20230616094936.png",
-    "虚拟化/qemu-kvm",
     "未命名.canvas",
     "image/Pasted image 20230412151017.png",
     "image/Pasted image 20230412145831.png"
