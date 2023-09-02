@@ -1,3 +1,7 @@
+---
+title: DRBD
+type: 高可用
+ ---
 
 
 
