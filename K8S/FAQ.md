@@ -36,9 +36,8 @@ E1210 14:42:01.500502 1 controller.go:1004] provision "default/test-claim" class
 ### ingress-nginx 泛域名匹配
 
 [nginx.ingress.kubernetes.io/server-alias](http://nginx.ingress.kubernetes.io/server-alias:)
-
 eg:
-
+```yaml
 metadata:
   name: hicloud-frontend
   namespace: user-center
@@ -49,10 +48,14 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /$1
     nginx.ingress.kubernetes.io/server-alias: '~^(.+)\.hicloud\.hive-intel\.qa$'
 
+
+```
+
+
 ### ingress-nginx 多域名
 
 eg:
-
+```yaml
 - host: "api.hive-intel.qa"
     http:
       paths:
@@ -73,3 +76,5 @@ eg:
             name: user-center
             port:
               number: 8080
+
+```

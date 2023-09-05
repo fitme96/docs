@@ -1,9 +1,3 @@
----
-title: heartbeat
-type: 高可用
- ---
-
-
 
 ## hearbeat 安装
 ```bash

@@ -1,6 +1,6 @@
 -   metrics-server yaml文件
+```yaml
 
-[root@k8smaster1 ~]# cat components.yaml
 apiVersion: v1
 kind: ServiceAccount
 metadata:
@@ -194,7 +194,7 @@ spec:
     namespace: kube-system
   version: v1beta1
   versionPriority: 100
-
+```
 ### 部署
 
 # 创建deployment

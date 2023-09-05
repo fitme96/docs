@@ -1,10 +1,3 @@
----
-title: DRBD
-type: 高可用
- ---
-
-
-
 
 ## BRBD安装
 
