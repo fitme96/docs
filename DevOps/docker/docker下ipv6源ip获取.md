@@ -1,7 +1,5 @@
 
-
-
-# ipv6源ip
+## ipv6源ip
 - 通过docker-proxy会重写客户端ip,ipv4可以获取正确远程地址是因为绕过了docker-proxy,NAT规则在代理前，docker并没有处理ipv6 nat，导致开启ipv6后不能正确获取远程地址。
 
 
