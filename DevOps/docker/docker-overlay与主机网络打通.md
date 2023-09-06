@@ -1,11 +1,11 @@
-#### 先决条件
+##先决条件
 
 -   master依赖brctl,执行apt install -y bridge-utils
 
-#### 实施
+## 实施
 
-##### master节点操作
-
+### master节点操作
+```bash
 1.  docker netns创建软链接,通过ip netns 可以看到network namespace,docker默认放到/var/run/docker/netns下，ip netns不可见
 
    rm -rf /var/run/netns
@@ -36,9 +36,11 @@
 7.  up sec01一端
 
    ip netns exec 1-p20dp5pq1y ip link set sec01 up
+```
 
-##### node节点操作
 
+### node节点操作
+```bash
 -   获取主机sec02 MAC地址与IP地址
 
 1.  进入br0 ns 增加FDB表记录
@@ -48,3 +50,5 @@ bridge fdb append e6:db:09:43:42:b6 dev vxlan0 dst 192.168.60.120
 2.  进入br0 ns 增加ARP表记录
 
 ip neighbor add 10.0.1.252 lladdr e6:db:09:43:42:b6 dev vxlan0
+
+```

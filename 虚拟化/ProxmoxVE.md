@@ -1,4 +1,4 @@
-# 常用命令
+## 常用命令
 
 ```bash
 
@@ -11,20 +11,16 @@ pvesh  delete nodes/www/qemu/117
 
 ```
 
-
-
-
-
 ---
-# cloud-init 创建虚拟机
+## cloud-init 创建虚拟机
 
-## cloud-images
+#### cloud-images
 - https://cloud-images.ubuntu.com/
 - https://cloud.centos.org/centos/ 
 - https://cloud.debian.org/images/cloud/
 - https://alt.fedoraproject.org/cloud/
 
-## 创建虚拟机
+### 创建虚拟机
 ```bash
 ## 创建虚拟机
 qm create 101 --name centos7 --memory 4096 --net0 virtio,bridge=vmbr0
@@ -41,8 +37,8 @@ qm template 101
 
 ```
 
-## 为用户创建虚拟机
-### 通过cli为用户创建虚拟机
+### 为用户创建虚拟机
+#### 通过cli为用户创建虚拟机
 ```bash
 ## 克隆101模板生成201虚拟机
 qm clone 101 201 --name ck-test-65-211
