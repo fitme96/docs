@@ -148,9 +148,11 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
-    "数据库/Mysql/常用命令.md",
-    "数据库/Mysql/mysql部署.md",
     "数据库/Mysql/SQL.md",
+    "统一登录/openldap.md",
+    "数据库/Mysql/mysql部署.md",
+    "统一登录",
+    "数据库/Mysql/常用命令.md",
     "数据库/Mysql/故障.md",
     "systemd/systemd命令.md",
     "systemd/Systemd.md",
