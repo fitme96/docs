@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systemd/systemd命令.md",
+                "file": "数据库/Mysql/常用命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systemd/systemd命令.md",
+                "file": "数据库/Mysql/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systemd/systemd命令.md",
+                "file": "数据库/Mysql/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systemd/systemd命令.md"
+                "file": "数据库/Mysql/常用命令.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
+    "数据库/Mysql/SQL.md",
+    "数据库/Mysql/故障.md",
+    "systemd/systemd命令.md",
     "systemd/Systemd.md",
     "自动化/ansible.md",
     "虚拟化/ProxmoxVE.md",
@@ -159,8 +162,6 @@
     "数据库/Pulsar.md",
     "数据库/ETCD.md",
     "数据库/ES.md",
-    "数据库/Mysql/SQL.md",
-    "数据库/Mysql/故障.md",
     "数据库/Mysql/常用命令.md",
     "数据库/Mysql/备份恢复.md",
     "DevOps/gitlab/gitlab-ci中script.md",
