@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Mysql/常用命令.md",
+                "file": "数据库/Mysql/备份恢复.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/Mysql/常用命令.md",
+                "file": "数据库/Mysql/备份恢复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/Mysql/常用命令.md",
+                "file": "数据库/Mysql/备份恢复.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/Mysql/常用命令.md"
+                "file": "数据库/Mysql/备份恢复.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
-    "统一登录/openldap.md",
-    "Linux/vsftpd.md",
     "数据库/Mysql/常用命令.md",
     "数据库/Mysql/mysql部署.md",
     "数据库/Mysql/SQL.md",
-    "统一登录",
     "数据库/Mysql/故障.md",
+    "数据库/Mysql/备份恢复.md",
+    "统一登录/openldap.md",
+    "Linux/vsftpd.md",
+    "统一登录",
     "systemd/systemd命令.md",
     "systemd/Systemd.md",
     "自动化/ansible.md",
@@ -167,7 +168,6 @@
     "数据库/Pulsar.md",
     "数据库/ETCD.md",
     "数据库/ES.md",
-    "数据库/Mysql/备份恢复.md",
     "DevOps/gitlab/gitlab-ci中script.md",
     "DevOps/gitlab/gitlab-ci.md",
     "DevOps/gitlab/gitlab升级.md",
