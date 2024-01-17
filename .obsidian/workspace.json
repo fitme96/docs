@@ -149,15 +149,17 @@
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
     "数据库/Mysql/常用命令.md",
+    "README.md",
+    "_sidebar.md",
+    "systemd/Systemd.md",
+    "systemd/systemd命令.md",
+    "Linux/vsftpd.md",
+    "数据库/Mysql/备份恢复.md",
     "数据库/Mysql/mysql部署.md",
     "数据库/Mysql/SQL.md",
     "数据库/Mysql/故障.md",
-    "数据库/Mysql/备份恢复.md",
     "统一登录/openldap.md",
-    "Linux/vsftpd.md",
     "统一登录",
-    "systemd/systemd命令.md",
-    "systemd/Systemd.md",
     "自动化/ansible.md",
     "虚拟化/ProxmoxVE.md",
     "虚拟化/qemu-kvm/libvirtd.md",
@@ -172,8 +174,6 @@
     "DevOps/gitlab/gitlab-ci.md",
     "DevOps/gitlab/gitlab升级.md",
     "前端/node.md",
-    "博文/DevOps基础工具搭建.md",
-    "丰石/陕西/省移动/ict部署说明.md",
-    "丰石/陕西/省移动/VictoriaMetrics.md"
+    "博文/DevOps基础工具搭建.md"
   ]
 }
