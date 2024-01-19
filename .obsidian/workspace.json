@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/日志.md",
+                "file": "Linux/Linux效率提升.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/日志.md",
+                "file": "Linux/Linux效率提升.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/日志.md",
+                "file": "Linux/Linux效率提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/日志.md"
+                "file": "Linux/Linux效率提升.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
-    "Linux/shell/一些语法.md",
     "Linux/日志.md",
+    "Linux/shell/一些语法.md",
     "网络/网络工具.md",
     "Linux/shell",
     "网络/路由.md",
