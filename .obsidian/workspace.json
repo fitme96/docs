@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/shell/一些语法.md"
+                "file": "Linux/日志.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
-    "网络/网络工具.md",
     "Linux/shell/一些语法.md",
+    "Linux/日志.md",
+    "网络/网络工具.md",
     "Linux/shell",
     "网络/路由.md",
     "数据库/Mysql/备份恢复.md",
@@ -174,7 +175,6 @@
     "数据库/ETCD.md",
     "数据库/ES.md",
     "DevOps/gitlab/gitlab-ci中script.md",
-    "DevOps/gitlab/gitlab-ci.md",
-    "DevOps/gitlab/gitlab升级.md"
+    "DevOps/gitlab/gitlab-ci.md"
   ]
 }
