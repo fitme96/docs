@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux效率提升.md",
+                "file": "Linux/防火墙/iptables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux效率提升.md",
+                "file": "Linux/防火墙/iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux效率提升.md",
+                "file": "Linux/防火墙/iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux效率提升.md"
+                "file": "Linux/防火墙/iptables.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "659e429ff29fc259",
   "lastOpenFiles": [
+    "Linux/Linux效率提升.md",
     "Linux/日志.md",
     "Linux/shell/一些语法.md",
     "网络/网络工具.md",
@@ -174,7 +175,6 @@
     "数据库/Pulsar.md",
     "数据库/ETCD.md",
     "数据库/ES.md",
-    "DevOps/gitlab/gitlab-ci中script.md",
-    "DevOps/gitlab/gitlab-ci.md"
+    "DevOps/gitlab/gitlab-ci中script.md"
   ]
 }
