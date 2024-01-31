@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac00590aa399a0a7",
+        "id": "5efec2e54905127c",
         "type": "tabs",
         "children": [
           {
-            "id": "659e429ff29fc259",
+            "id": "45f03fc672fc406f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/shell/一些用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/shell/一些用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/shell/一些语法.md",
+                "file": "Linux/shell/一些用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/shell/一些语法.md"
+                "file": "Linux/shell/一些用法.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "659e429ff29fc259",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
+    "Linux/shell/一些用法.md",
+    "Linux/日志.md",
     "Linux/防火墙/iptables.md",
     "Linux/Linux效率提升.md",
-    "Linux/日志.md",
-    "Linux/shell/一些语法.md",
     "网络/网络工具.md",
     "Linux/shell",
     "网络/路由.md",
