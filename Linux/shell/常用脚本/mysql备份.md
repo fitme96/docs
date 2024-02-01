@@ -1,8 +1,9 @@
 ```bash
 
 #!/bin/bash
-
-#### 备份
+## 脚本使用需要传入mysql 用户名$1  密码$2
+## $3用于指定mysql socket文件，用于非默认mysql安装
+## 默认保留7天的备份数据
 uname=$1
 passwd=$2
 
@@ -26,7 +27,5 @@ fi
 #定时清理
 bakfile_number=7
 find ${bakDir} -name "*.sql*" -mtime +${bakfile_number} | xargs -I {} rm -f {}
-
-ls ${bakDir}
 
 ```
