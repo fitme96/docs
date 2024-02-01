@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络/ip与掩码.md",
+                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络/ip与掩码.md",
+                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络/ip与掩码.md",
+                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络/ip与掩码.md"
+                "file": "Linux/shell/常用脚本/linux主机基线检查.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/防火墙/iptables.md",
+    "网络/ip与掩码.md",
     "数据库/Mysql/故障.md",
     "前端/node.md",
     "数据库/Mysql/mysql部署.md",
     "数据库/Mysql/SQL.md",
     "随笔/DNS.md",
     "随笔/证书.md",
-    "网络/ip与掩码.md",
     "网络/DNS.md",
     "网络/网络工具.md",
     "网络/路由.md",
@@ -167,7 +168,6 @@
     "自动化/ansible.md",
     "Linux/磁盘与文件系统/linux磁盘-文件系统.md",
     "Linux/防火墙/ufw.md",
-    "Linux/防火墙/iptables.md",
     "Linux/系统安装/Ubuntu20.04无人值守.md",
     "Linux/系统安装/Linux制作装机盘.md",
     "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
