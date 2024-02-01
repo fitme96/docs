@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/shell/常用脚本/mysql备份.md",
+                "file": "Linux/shell/常用脚本/docker清理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/shell/常用脚本/mysql备份.md",
+                "file": "Linux/shell/常用脚本/docker清理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/shell/常用脚本/mysql备份.md",
+                "file": "Linux/shell/常用脚本/docker清理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/shell/常用脚本/mysql备份.md"
+                "file": "Linux/shell/常用脚本/docker清理.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
-    "Linux/shell/常用脚本/防爆破.md",
     "Linux/shell/常用脚本/mysql备份.md",
+    "Linux/shell/常用脚本/docker清理.md",
+    "Linux/shell/常用脚本/防爆破.md",
     "Linux/shell/一些用法.md",
     "Linux/shell/常用脚本/二进制安装docker.md",
     "Linux/shell/常用脚本",
@@ -175,7 +176,6 @@
     "自动化/ansible.md",
     "虚拟化/ProxmoxVE.md",
     "虚拟化/qemu-kvm/libvirtd.md",
-    "虚拟化/qemu-kvm/KVM.md",
-    "网络/DNS.md"
+    "虚拟化/qemu-kvm/KVM.md"
   ]
 }
