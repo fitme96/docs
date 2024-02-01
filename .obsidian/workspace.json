@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
+                "file": "Linux/shell/一些用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
+                "file": "Linux/shell/一些用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/shell/常用脚本/linux主机基线检查.md",
+                "file": "Linux/shell/一些用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/shell/常用脚本/linux主机基线检查.md"
+                "file": "Linux/shell/一些用法.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/shell/常用脚本/主机探活.md",
+    "Linux/shell/常用脚本/linux主机基线检查.md",
     "Linux/防火墙/iptables.md",
     "网络/ip与掩码.md",
     "数据库/Mysql/故障.md",
@@ -172,8 +174,6 @@
     "Linux/系统安装/Linux制作装机盘.md",
     "Linux/系统安装/CentOS7.7-kickstart自动安装.md",
     "Linux/FQA.md",
-    "Linux/ajenti2.md",
-    "Linux/vsftpd.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
