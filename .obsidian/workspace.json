@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/shell/一些用法.md",
+                "file": "Linux/shell/常用脚本/防爆破.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/shell/一些用法.md",
+                "file": "Linux/shell/常用脚本/防爆破.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/shell/一些用法.md",
+                "file": "Linux/shell/常用脚本/防爆破.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/shell/一些用法.md"
+                "file": "Linux/shell/常用脚本/防爆破.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "45f03fc672fc406f",
   "lastOpenFiles": [
     "Linux/shell/一些用法.md",
+    "Linux/shell/常用脚本/防爆破.md",
+    "Linux/shell/常用脚本/二进制安装docker.md",
+    "Linux/shell/常用脚本",
+    "Linux/shell/未命名.md",
     "Linux/日志.md",
     "Linux/防火墙/iptables.md",
     "Linux/Linux效率提升.md",
@@ -172,9 +176,6 @@
     "虚拟化/qemu-kvm/libvirtd.md",
     "虚拟化/qemu-kvm/KVM.md",
     "网络/DNS.md",
-    "网络/ip与掩码.md",
-    "数据库/Pulsar.md",
-    "数据库/ETCD.md",
-    "数据库/ES.md"
+    "网络/ip与掩码.md"
   ]
 }
