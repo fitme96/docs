@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "数据库/ES.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "数据库/ES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "数据库/ES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/docker/docker_install.md"
+                "file": "数据库/ES.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "数据库/Pulsar.md",
+    "数据库/Mysql/mysql部署.md",
+    "数据库/ES.md",
+    "数据库/Mysql/备份恢复.md",
+    "数据库/Mysql/常用命令.md",
+    "数据库/Mysql/故障.md",
+    "数据库/Mysql/SQL.md",
+    "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
+    "DevOps/docker/docker_install.md",
     "Linux/snmpd部署.md",
     "Linux/vsftpd.md",
     "数据库/pgsql/源码安装.md",
@@ -157,10 +167,7 @@
     "Linux/shell/常用脚本/linux主机基线检查.md",
     "Linux/防火墙/iptables.md",
     "网络/ip与掩码.md",
-    "数据库/Mysql/故障.md",
     "前端/node.md",
-    "数据库/Mysql/mysql部署.md",
-    "数据库/Mysql/SQL.md",
     "随笔/DNS.md",
     "随笔/证书.md",
     "网络/DNS.md",
@@ -168,13 +175,6 @@
     "网络/路由.md",
     "虚拟化/qemu-kvm/KVM.md",
     "虚拟化/qemu-kvm/Linux-Win-MacOS虚拟机.md",
-    "虚拟化/qemu-kvm/libvirtd.md",
-    "虚拟化/ProxmoxVE.md",
-    "虚拟化/qemu-kvm/qcow2操作.md",
-    "虚拟化/qemu-kvm/nwfilter.md",
-    "自动化/ansible.md",
-    "Linux/磁盘与文件系统/linux磁盘-文件系统.md",
-    "Linux/防火墙/ufw.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
