@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/docker/docker_install.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/docker/docker_install.md"
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
-    "DevOps/docker/官方registry.md",
     "DevOps/docker/docker_install.md",
+    "DevOps/一些compose文件/mysql-redis-minio.md",
+    "DevOps/一些compose文件",
+    "DevOps/docker/官方registry.md",
     "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "数据库/ES.md",
     "数据库/Pulsar.md",
@@ -174,7 +176,6 @@
     "网络/DNS.md",
     "网络/网络工具.md",
     "网络/路由.md",
-    "虚拟化/qemu-kvm/KVM.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
