@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "DevOps/docker/docker_install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "DevOps/docker/docker_install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "DevOps/docker/docker_install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/snmpd部署.md"
+                "file": "DevOps/docker/docker_install.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/snmpd部署.md",
     "Linux/vsftpd.md",
     "数据库/pgsql/源码安装.md",
     "Linux/shell/常用脚本/主机探活.md",
@@ -174,7 +175,6 @@
     "自动化/ansible.md",
     "Linux/磁盘与文件系统/linux磁盘-文件系统.md",
     "Linux/防火墙/ufw.md",
-    "Linux/系统安装/Ubuntu20.04无人值守.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
