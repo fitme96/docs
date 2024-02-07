@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/ES.md",
+                "file": "DevOps/docker/docker_install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/ES.md",
+                "file": "DevOps/docker/docker_install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/ES.md",
+                "file": "DevOps/docker/docker_install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/ES.md"
+                "file": "DevOps/docker/docker_install.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "DevOps/docker/官方registry.md",
+    "DevOps/docker/docker_install.md",
+    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
+    "数据库/ES.md",
     "数据库/Pulsar.md",
     "数据库/Mysql/mysql部署.md",
-    "数据库/ES.md",
     "数据库/Mysql/备份恢复.md",
     "数据库/Mysql/常用命令.md",
     "数据库/Mysql/故障.md",
     "数据库/Mysql/SQL.md",
     "监控告警/Prometheus/snmp-exporter监控防火墙.md",
-    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
-    "DevOps/docker/docker_install.md",
     "Linux/snmpd部署.md",
     "Linux/vsftpd.md",
     "数据库/pgsql/源码安装.md",
@@ -174,7 +175,6 @@
     "网络/网络工具.md",
     "网络/路由.md",
     "虚拟化/qemu-kvm/KVM.md",
-    "虚拟化/qemu-kvm/Linux-Win-MacOS虚拟机.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
