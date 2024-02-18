@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "网络/网络工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "网络/网络工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "网络/网络工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md"
+                "file": "网络/网络工具.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
-    "DevOps/docker/docker_install.md",
+    "网络/路由.md",
+    "网络/ip与掩码.md",
+    "Linux/ajenti2.md",
+    "Linux/apt离线包制作.md",
+    "Linux/deb包制作.md",
+    "Linux/FQA.md",
+    "Linux/Linux效率提升.md",
+    "Linux/nginx.md",
+    "Linux/ntp4.2.8p17编译安装.md",
+    "网络/网络工具.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
+    "DevOps/docker/docker_install.md",
     "DevOps/一些compose文件",
     "DevOps/docker/官方registry.md",
     "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
@@ -166,16 +176,6 @@
     "数据库/pgsql/源码安装.md",
     "Linux/shell/常用脚本/主机探活.md",
     "数据库/pgsql",
-    "Linux/shell/一些用法.md",
-    "Linux/shell/常用脚本/linux主机基线检查.md",
-    "Linux/防火墙/iptables.md",
-    "网络/ip与掩码.md",
-    "前端/node.md",
-    "随笔/DNS.md",
-    "随笔/证书.md",
-    "网络/DNS.md",
-    "网络/网络工具.md",
-    "网络/路由.md",
     "Linux/shell/常用脚本",
     "Linux/shell",
     "统一登录"
