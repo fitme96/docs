@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ntp4.2.8p17编译安装.md",
+                "file": "Linux/deb包制作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ntp4.2.8p17编译安装.md",
+                "file": "Linux/deb包制作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ntp4.2.8p17编译安装.md",
+                "file": "Linux/deb包制作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ntp4.2.8p17编译安装.md"
+                "file": "Linux/deb包制作.md"
               }
             }
           }
@@ -148,7 +148,13 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
-    "Linux/nginx.md",
+    "Linux/FQA.md",
+    "中间件/nginx.md",
+    "中间件",
+    "Linux/日志.md",
+    "README.md",
+    "数据库/ETCD.md",
+    "_sidebar.md",
     "Linux/ntp4.2.8p17编译安装.md",
     "网络/网络工具.md",
     "网络/路由.md",
@@ -156,7 +162,6 @@
     "Linux/ajenti2.md",
     "Linux/apt离线包制作.md",
     "Linux/deb包制作.md",
-    "Linux/FQA.md",
     "Linux/Linux效率提升.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/docker_install.md",
@@ -170,11 +175,6 @@
     "数据库/Mysql/常用命令.md",
     "数据库/Mysql/故障.md",
     "数据库/Mysql/SQL.md",
-    "监控告警/Prometheus/snmp-exporter监控防火墙.md",
-    "Linux/snmpd部署.md",
-    "Linux/vsftpd.md",
-    "数据库/pgsql/源码安装.md",
-    "Linux/shell/常用脚本/主机探活.md",
     "数据库/pgsql",
     "Linux/shell/常用脚本",
     "Linux/shell",
