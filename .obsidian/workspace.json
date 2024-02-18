@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45f03fc672fc406f",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
+    "generate_sidebar.sh",
     "Linux/FQA.md",
     "中间件/nginx.md",
     "中间件",
