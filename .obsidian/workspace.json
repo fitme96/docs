@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S/FAQ.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S/FAQ.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S/FAQ.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8S/FAQ.md"
+                "file": "shell/常用脚本/二进制安装docker.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "shell/一些用法.md",
+    "K8S/FAQ.md",
     "Linux/deb包制作.md",
     "generate_sidebar.sh",
     "Linux/FQA.md",
@@ -175,10 +177,9 @@
     "数据库/Mysql/备份恢复.md",
     "数据库/Mysql/常用命令.md",
     "数据库/Mysql/故障.md",
-    "数据库/Mysql/SQL.md",
     "数据库/pgsql",
-    "Linux/shell/常用脚本",
-    "Linux/shell",
+    "shell/常用脚本",
+    "shell",
     "统一登录"
   ]
 }
