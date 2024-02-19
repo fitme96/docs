@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/deb包制作.md",
+                "file": "K8S/FAQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/deb包制作.md",
+                "file": "K8S/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/deb包制作.md",
+                "file": "K8S/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/deb包制作.md"
+                "file": "K8S/FAQ.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/deb包制作.md",
     "generate_sidebar.sh",
     "Linux/FQA.md",
     "中间件/nginx.md",
@@ -162,7 +163,6 @@
     "网络/ip与掩码.md",
     "Linux/ajenti2.md",
     "Linux/apt离线包制作.md",
-    "Linux/deb包制作.md",
     "Linux/Linux效率提升.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/docker_install.md",
