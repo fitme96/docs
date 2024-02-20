@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "shell/一些用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "shell/一些用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "shell/一些用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md"
+                "file": "shell/一些用法.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
-    "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/mysql备份.md",
+    "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/docker清理.md",
     "shell/常用脚本/主机探活.md",
     "shell/常用脚本/防爆破.md",
