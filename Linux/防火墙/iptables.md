@@ -32,9 +32,6 @@ iptables -nvL
 
 ```
 
-
-
-
 ### iptables调试
 
 ```shell
@@ -51,4 +48,14 @@ iptables -t raw -A PREROUTING -p TCP -j TRACE
 iptables -nvL -t raw
 ## 通过syslog过滤分析iptables过滤
 tail  -f /var/log/syslog |grep "192.168.65.8"
+```
+
+规则
+```bash
+默认规则设置
+iptables -P FORWARD DROP
+iptables -P INPUT ACCEPT
+
+iptables -A  FORWARD -j ACCEPT 
+
 ```
