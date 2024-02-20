@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/一些用法.md"
+                "file": "shell/常用脚本/二进制安装docker.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "README.md",
+    "shell/一些用法.md",
     "shell/常用脚本/mysql备份.md",
     "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/docker清理.md",
     "shell/常用脚本/主机探活.md",
     "shell/常用脚本/防爆破.md",
     "shell/常用脚本/二进制安装docker.md",
-    "shell/一些用法.md",
     "K8S/FAQ.md",
     "Linux/deb包制作.md",
     "generate_sidebar.sh",
@@ -162,7 +163,6 @@
     "中间件/nginx.md",
     "中间件",
     "Linux/日志.md",
-    "README.md",
     "数据库/ETCD.md",
     "_sidebar.md",
     "Linux/ntp4.2.8p17编译安装.md",
