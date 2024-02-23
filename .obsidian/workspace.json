@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "shell/一些用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "shell/一些用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "shell/一些用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/防火墙/iptables.md"
+                "file": "shell/一些用法.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/防火墙/iptables.md",
     "shell/常用脚本/二进制安装docker.md",
     "README.md",
     "shell/一些用法.md",
@@ -176,7 +177,6 @@
     "DevOps/docker/docker_install.md",
     "DevOps/一些compose文件",
     "DevOps/docker/官方registry.md",
-    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "数据库/pgsql",
     "shell/常用脚本",
     "shell",
