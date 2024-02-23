@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "shell/常用脚本/二进制安装docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/一些用法.md"
+                "file": "shell/常用脚本/二进制安装docker.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "shell/一些用法.md",
     "Linux/防火墙/iptables.md",
     "shell/常用脚本/二进制安装docker.md",
     "README.md",
-    "shell/一些用法.md",
     "shell/常用脚本/mysql备份.md",
     "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/docker清理.md",
