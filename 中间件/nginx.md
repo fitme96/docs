@@ -30,10 +30,20 @@ valid_referers none blocked www.baidu.com;
 
 隐藏nginx版本
 ```
+自定义
 修改nginx解压路径(eg:/usr/local/nginx-1.5.6/src/http/ngx_http_header_filter_module.c)文件的第48和49行内容，自定义头信息：  
 static char ngx_http_server_string[] = “Server:XXXXX.com” CRLF;  
 static char ngx_http_server_full_string[] = “Server:XXXXX.com” CRLF;  
 
-http区域增加  
+隐藏版本号http区域增加如下  
 server_tokens off;
+```
+
+限制ip访问
+
+```
+deny 192.168.1.1; #拒绝IP  
+allow 192.168.1.0/24; #允许IP  
+allow 10.1.1.0/16; #允许IP  
+deny all; #拒绝其他所有IP
 ```
