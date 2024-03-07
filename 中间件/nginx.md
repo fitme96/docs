@@ -21,9 +21,19 @@ limit_zone 该指令在 1.1.8 版中已过时，并在 1.7.6 版中删除。应�
 ```
 location ~* ^.+\.(gif|jpg|png|swf|flv|rar|zip)$ {  
 valid_referers none blocked www.baidu.com;  
-if ($invalid_referer) {  
-rewrite ^/ [img]http://www.nsfocus.com/images/default/logo.gif[/img];  
-# return 403;  
-}  
+	if ($invalid_referer) {  
+		return 403;  
+	}  
 }
+```
+
+
+隐藏nginx版本
+```
+修改nginx解压路径(eg:/usr/local/nginx-1.5.6/src/http/ngx_http_header_filter_module.c)文件的第48和49行内容，自定义头信息：  
+static char ngx_http_server_string[] = “Server:XXXXX.com” CRLF;  
+static char ngx_http_server_full_string[] = “Server:XXXXX.com” CRLF;  
+
+http区域增加  
+server_tokens off;
 ```
