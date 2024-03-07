@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "中间件/nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "中间件/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md",
+                "file": "中间件/nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/常用脚本/mysql备份.md"
+                "file": "中间件/nginx.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Pasted image 20240307110718.png",
+    "shell/常用脚本/mysql备份.md",
     "shell/常用脚本/二进制安装docker.md",
     "shell/一些用法.md",
     "Linux/防火墙/iptables.md",
     "README.md",
-    "shell/常用脚本/mysql备份.md",
     "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/docker清理.md",
     "shell/常用脚本/主机探活.md",
@@ -176,7 +177,6 @@
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/docker_install.md",
     "DevOps/一些compose文件",
-    "DevOps/docker/官方registry.md",
     "数据库/pgsql",
     "shell/常用脚本",
     "shell",

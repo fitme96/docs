@@ -10,3 +10,20 @@ nginx: [emerg] module "/usr/lib64/nginx/modules/ngx_http_image_filter_module.so"
 systemctl restart nginx
 
 ```
+
+
+limit_conn_zone
+
+limit_zone 该指令在 1.1.8 版中已过时，并在 1.7.6 版中删除。应使用语法有所改变的等效 limit_conn_zone 指令,[官网说明](https://nginx.org/en/docs/http/ngx_http_limit_conn_module.html#limit_zone)
+
+
+防盗链
+```
+location ~* ^.+\.(gif|jpg|png|swf|flv|rar|zip)$ {  
+valid_referers none blocked www.baidu.com;  
+if ($invalid_referer) {  
+rewrite ^/ [img]http://www.nsfocus.com/images/default/logo.gif[/img];  
+# return 403;  
+}  
+}
+```
