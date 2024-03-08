@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "监控告警/Prometheus/node-exporter监控硬件资源.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "监控告警/Prometheus/node-exporter监控硬件资源.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "监控告警/Prometheus/node-exporter监控硬件资源.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "监控告警/Prometheus/node-exporter监控硬件资源.md"
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "监控告警/Prometheus/node-exporter监控硬件资源.md",
     "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "监控告警/Prometheus/snmp-exporter监控防火墙.md",
-    "监控告警/Prometheus/node-exporter监控硬件资源.md",
     "中间件/nginx.md",
     "Pasted image 20240307110718.png",
     "shell/常用脚本/mysql备份.md",
