@@ -2,11 +2,11 @@ nginx: [emerg] module "/usr/lib64/nginx/modules/ngx_http_image_filter_module.so"
 
 
 ```
- yum remove nginx-mod*
+yum remove nginx-mod*
 ```
 
 ```
- yum install nginx-mod*
+yum install nginx-mod*
 systemctl restart nginx
 
 ```
