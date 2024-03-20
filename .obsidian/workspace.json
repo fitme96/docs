@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "数据库/pgsql/源码安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "数据库/pgsql/源码安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/防火墙/iptables.md",
+                "file": "数据库/pgsql/源码安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/防火墙/iptables.md"
+                "file": "数据库/pgsql/源码安装.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "Linux/防火墙/iptables.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/nsenter工具.md",
     "DevOps/docker/FAQ.md",
@@ -168,7 +169,6 @@
     "Pasted image 20240307110718.png",
     "shell/常用脚本/mysql备份.md",
     "shell/一些用法.md",
-    "Linux/防火墙/iptables.md",
     "README.md",
     "shell/常用脚本/linux主机基线检查.md",
     "shell/常用脚本/docker清理.md",
