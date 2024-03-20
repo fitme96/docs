@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "Linux/防火墙/iptables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "Linux/防火墙/iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
+                "file": "Linux/防火墙/iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/一些compose文件/mysql-redis-minio.md"
+                "file": "Linux/防火墙/iptables.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/nsenter工具.md",
     "DevOps/docker/FAQ.md",
     "DevOps/docker/docker下ipv6源ip获取.md",
@@ -174,7 +175,6 @@
     "shell/常用脚本/主机探活.md",
     "shell/常用脚本/防爆破.md",
     "K8S/FAQ.md",
-    "Linux/deb包制作.md",
     "generate_sidebar.sh",
     "中间件",
     "DevOps/一些compose文件",
