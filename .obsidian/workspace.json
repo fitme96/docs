@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/redis.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/redis.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/redis.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/redis.md"
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md"
               }
             }
           }
@@ -146,10 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45f03fc672fc406f",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
-    "shell/常用脚本/二进制安装docker.md",
+    "DevOps/docker/nsenter工具.md",
+    "DevOps/docker/FAQ.md",
+    "DevOps/docker/docker下ipv6源ip获取.md",
+    "DevOps/docker/docker容器支持ipv4-ipv6双栈.md",
+    "DevOps/docker/docker挂载文件不同步.md",
+    "DevOps/docker/Docker-Swarm.md",
+    "DevOps/docker/docker-overlay与主机网络打通.md",
+    "DevOps/docker/docker-bind-volume.md",
+    "DevOps/docker/docker_install.md",
+    "DevOps/docker/官方registry.md",
     "数据库/redis.md",
+    "shell/常用脚本/二进制安装docker.md",
     "中间件/nginx.md",
     "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "监控告警/Prometheus/node-exporter监控硬件资源.md",
@@ -166,17 +176,7 @@
     "K8S/FAQ.md",
     "Linux/deb包制作.md",
     "generate_sidebar.sh",
-    "Linux/FQA.md",
     "中间件",
-    "Linux/日志.md",
-    "数据库/ETCD.md",
-    "_sidebar.md",
-    "Linux/ntp4.2.8p17编译安装.md",
-    "网络/网络工具.md",
-    "网络/路由.md",
-    "网络/ip与掩码.md",
-    "Linux/ajenti2.md",
-    "Linux/apt离线包制作.md",
     "DevOps/一些compose文件",
     "数据库/pgsql",
     "shell/常用脚本",
