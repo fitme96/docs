@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/pgsql/源码安装.md",
+                "file": "网络/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/pgsql/源码安装.md",
+                "file": "网络/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/pgsql/源码安装.md",
+                "file": "网络/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/pgsql/源码安装.md"
+                "file": "网络/DNS.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "45f03fc672fc406f",
   "lastOpenFiles": [
+    "网络/网络工具.md",
+    "网络/路由.md",
+    "网络/ip与掩码.md",
+    "shell/一些用法.md",
+    "数据库/pgsql/源码安装.md",
     "Linux/防火墙/iptables.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "DevOps/docker/nsenter工具.md",
@@ -168,13 +173,8 @@
     "监控告警/Prometheus/snmp-exporter监控防火墙.md",
     "Pasted image 20240307110718.png",
     "shell/常用脚本/mysql备份.md",
-    "shell/一些用法.md",
     "README.md",
     "shell/常用脚本/linux主机基线检查.md",
-    "shell/常用脚本/docker清理.md",
-    "shell/常用脚本/主机探活.md",
-    "shell/常用脚本/防爆破.md",
-    "K8S/FAQ.md",
     "generate_sidebar.sh",
     "中间件",
     "DevOps/一些compose文件",
