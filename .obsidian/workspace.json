@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5efec2e54905127c",
+        "id": "6121644e9cecd6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "45f03fc672fc406f",
+            "id": "c026bc973ef0281b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "GO/基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "GO/基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "GO/基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ssh.md"
+                "file": "GO/基础.md"
               }
             }
           }
@@ -141,15 +141,22 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45f03fc672fc406f",
+  "active": "c026bc973ef0281b",
   "lastOpenFiles": [
-    "网络/DNS.md",
+    "2024-03-21.md",
+    "GO/基础.md",
+    "未命名.canvas",
+    "GO/slice.md",
+    "GO/delve调试.md",
+    "GO/基础",
+    "GO/基础/基础.md",
     "Linux/ssh.md",
+    "网络/DNS.md",
     "网络/网络工具.md",
     "网络/路由.md",
     "网络/ip与掩码.md",
@@ -169,12 +176,7 @@
     "DevOps/docker/官方registry.md",
     "数据库/redis.md",
     "shell/常用脚本/二进制安装docker.md",
-    "中间件/nginx.md",
-    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
-    "监控告警/Prometheus/node-exporter监控硬件资源.md",
-    "监控告警/Prometheus/snmp-exporter监控防火墙.md",
     "Pasted image 20240307110718.png",
-    "shell/常用脚本/mysql备份.md",
     "generate_sidebar.sh",
     "中间件",
     "DevOps/一些compose文件",
