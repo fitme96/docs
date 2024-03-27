@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/基础.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/基础.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/基础.md",
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/基础.md"
+                "file": "DevOps/一些compose文件/mysql-redis-minio.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c026bc973ef0281b",
   "lastOpenFiles": [
-    "2024-03-21.md",
+    "数据库/redis.md",
     "GO/基础.md",
+    "2024-03-21.md",
     "未命名.canvas",
     "GO/slice.md",
     "GO/delve调试.md",
@@ -174,7 +175,6 @@
     "DevOps/docker/docker-bind-volume.md",
     "DevOps/docker/docker_install.md",
     "DevOps/docker/官方registry.md",
-    "数据库/redis.md",
     "shell/常用脚本/二进制安装docker.md",
     "Pasted image 20240307110718.png",
     "generate_sidebar.sh",
