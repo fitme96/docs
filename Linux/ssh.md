@@ -1,6 +1,23 @@
 
 升级openssh9.7p1 需要openssl >=1.1.1
-1. 升级openssl
+
+注意
+1. 可以开启telnet登录，这样ssh升级失败可以通过telnet处理
+
+```bash
+yum install -y telnet-server
+
+systemctl start telnet.socket
+
+echo "pts/0" >> /etc/securetty
+echo "pts/1" >> /etc/securetty
+
+使用telnet工具测试登录成功后再操作下面步骤
+
+```
+
+
+3. 升级openssl
 ```
 yum install gcc openssl-devel zlib-devel
 
@@ -32,7 +49,7 @@ cp /usr/sbin/sshd /usr/sbin/sshd.old
 ln -sv /usr/local/openssh.97p1/sbin/sshd  /usr/sbin/sshd
 
 
-使用如下systemd配置文件
+使用如下systemd配置文件,主要修改Type为simple
 [Unit]
 Description=OpenSSH server daemon
 Documentation=man:sshd(8) man:sshd_config(5)
@@ -53,5 +70,15 @@ WantedBy=multi-user.target
 
 
 systemctl daemon-reload
+
+修改sshd_config UsePAM 改为yes ，因为编译时开启了pam模块，必须要打开这个参数
+
+注意： 配置文件在这里 /usr/local/openssh.97p1/etc/
 systemctl restart sshd
+```
+
+
+连接无异常清楚telnet服务
+```
+yum -y remove telnet-server
 ```
