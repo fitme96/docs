@@ -47,3 +47,13 @@ allow 192.168.1.0/24; #允许IP
 allow 10.1.1.0/16; #允许IP  
 deny all; #拒绝其他所有IP
 ```
+
+配置ssl
+nginx.conf中增加如下
+```
+    server {
+        listen              8082 ssl;
+        ssl_certificate      cert/_.sdvideoai.cn.crt;
+        ssl_certificate_key  cert/_.sdvideoai.cn.key;
+}
+```
