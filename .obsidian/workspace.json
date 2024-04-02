@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "Linux/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "Linux/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "Linux/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/nginx.md"
+                "file": "Linux/ssh.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
+    "中间件/nginx.md",
     "Linux/ssh.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "数据库/redis.md",
@@ -175,7 +176,6 @@
     "DevOps/docker/docker-bind-volume.md",
     "DevOps/docker/docker_install.md",
     "DevOps/docker/官方registry.md",
-    "shell/常用脚本/二进制安装docker.md",
     "Pasted image 20240307110718.png",
     "generate_sidebar.sh",
     "中间件",
