@@ -82,7 +82,8 @@ systemctl daemon-reload
 mv /usr/local/openssh.97p1/etc/sshd_config /usr/local/openssh.97p1/etc/sshd_config.bak
 cp /etc/ssh/sshd_config /usr/local/openssh.97p1/etc/
 
-
+sed -i.bak 's/GSSAPIAuth.*/#&/g' /usr/local/openssh.97p1/etc/sshd_config
+sed -i.bak 's/GSSAPICleanup.*/#&/g' /usr/local/openssh.97p1/etc/sshd_config
 systemctl restart sshd
 ```
 
