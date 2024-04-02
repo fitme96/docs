@@ -11,8 +11,8 @@ yum install -y telnet-server
 
 systemctl start telnet.socket
 
-echo "pts/0" >> /etc/securetty
-echo "pts/1" >> /etc/securetty
+
+echo "pts/3" >> /etc/securetty
 
 使用telnet工具测试登录成功后再操作下面步骤
 
@@ -41,7 +41,7 @@ ldconfig -v |grep ssl
 yum install pam-devel -y
 wget https://ftp.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-9.7p1.tar.gz
 
-cd openssh-9.7p1
+tar xf openssh-9.7p1.tar.gz && cd openssh-9.7p1
 
 ./configure --prefix=/usr/local/openssh.97p1  --with-ssl-dir=/usr/local/ssl --with-pam
 
