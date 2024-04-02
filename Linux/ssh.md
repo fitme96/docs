@@ -47,9 +47,11 @@ tar xf openssh-9.7p1.tar.gz && cd openssh-9.7p1
 
 make -j4 && make install
 /usr/local/openssh.97p1/bin/ssh -V
-cp /usr/sbin/sshd /usr/sbin/sshd.old
+mv /usr/sbin/sshd /usr/sbin/sshd.old
 ln -sv /usr/local/openssh.97p1/sbin/sshd  /usr/sbin/sshd
 
+
+sed -i.bak 's#notify#simple#g' /lib/systemd/system/sshd.service
 
 使用如下systemd配置文件,主要修改Type为simple
 [Unit]
@@ -76,6 +78,11 @@ systemctl daemon-reload
 修改sshd_config UsePAM 改为yes ，因为编译时开启了pam模块，必须要打开这个参数
 
 注意： 配置文件在这里 /usr/local/openssh.97p1/etc/
+
+mv /usr/local/openssh.97p1/etc/sshd_config /usr/local/openssh.97p1/etc/sshd_config.bak
+cp /etc/ssh/sshd_config /usr/local/openssh.97p1/etc/
+
+
 systemctl restart sshd
 ```
 
