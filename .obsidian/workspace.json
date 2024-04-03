@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/VIM.md"
+                "file": "中间件/nginx.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
-    "中间件/nacos.md",
     "Linux/VIM.md",
+    "中间件/nacos.md",
     "Linux/ssh.md",
     "中间件/nginx.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
