@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nacos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/VIM.md",
+                "file": "中间件/nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/VIM.md"
+                "file": "中间件/nacos.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
-    "Linux/ssh.md",
     "Linux/VIM.md",
+    "中间件/nacos.md",
+    "Linux/ssh.md",
     "中间件/nginx.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "数据库/redis.md",
@@ -175,7 +176,6 @@
     "DevOps/docker/Docker-Swarm.md",
     "DevOps/docker/docker-overlay与主机网络打通.md",
     "DevOps/docker/docker-bind-volume.md",
-    "DevOps/docker/docker_install.md",
     "Pasted image 20240307110718.png",
     "generate_sidebar.sh",
     "中间件",
