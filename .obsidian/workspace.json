@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/nacos.md",
+                "file": "Linux/VIM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/nacos.md",
+                "file": "Linux/VIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/nacos.md",
+                "file": "Linux/VIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/nacos.md"
+                "file": "Linux/VIM.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
-    "Linux/VIM.md",
     "中间件/nacos.md",
+    "Linux/VIM.md",
     "Linux/ssh.md",
     "中间件/nginx.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
