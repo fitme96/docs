@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "统一登录/openldap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "统一登录/openldap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/nginx.md",
+                "file": "统一登录/openldap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/nginx.md"
+                "file": "统一登录/openldap.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e02e69b9b8f1370b",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
-    "Linux/VIM.md",
     "中间件/nacos.md",
-    "Linux/ssh.md",
     "中间件/nginx.md",
+    "Linux/VIM.md",
+    "Linux/ssh.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
-    "数据库/redis.md",
+    "数据库-消息队列/redis.md",
     "GO/基础.md",
     "2024-03-21.md",
     "未命名.canvas",
@@ -166,7 +166,7 @@
     "网络/路由.md",
     "网络/ip与掩码.md",
     "shell/一些用法.md",
-    "数据库/pgsql/源码安装.md",
+    "数据库-消息队列/pgsql/源码安装.md",
     "Linux/防火墙/iptables.md",
     "DevOps/docker/nsenter工具.md",
     "DevOps/docker/FAQ.md",
@@ -180,7 +180,7 @@
     "generate_sidebar.sh",
     "中间件",
     "DevOps/一些compose文件",
-    "数据库/pgsql",
+    "数据库-消息队列/pgsql",
     "shell/常用脚本",
     "shell",
     "统一登录"
