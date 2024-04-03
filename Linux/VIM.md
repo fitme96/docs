@@ -24,7 +24,9 @@ vimdiff 1.txt 2.txt
 
 :h 
 
-dw
-x
-dap
+dw  删除单词
+x     一个字符
+dap 删除全部
 
+
+[vim 实用技巧](https://agou-images.oss-cn-qingdao.aliyuncs.com/pdfs/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf) 
