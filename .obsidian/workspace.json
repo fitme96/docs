@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "统一登录/openldap.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "统一登录/openldap.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "统一登录/openldap.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "统一登录/openldap.md"
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
+    "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+    "统一登录/openldap.md",
     "中间件/nacos.md",
     "中间件/nginx.md",
     "Linux/VIM.md",
@@ -174,8 +176,6 @@
     "DevOps/docker/docker容器支持ipv4-ipv6双栈.md",
     "DevOps/docker/docker挂载文件不同步.md",
     "DevOps/docker/Docker-Swarm.md",
-    "DevOps/docker/docker-overlay与主机网络打通.md",
-    "DevOps/docker/docker-bind-volume.md",
     "Pasted image 20240307110718.png",
     "generate_sidebar.sh",
     "中间件",
