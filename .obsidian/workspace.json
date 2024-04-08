@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/snmpd部署.md",
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/snmpd部署.md"
+                "file": "监控告警/Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
+    "Linux/snmpd部署.md",
     "监控告警/Prometheus/snmp-exporter监控防火墙.md",
     "Linux/VIM.md",
-    "Linux/snmpd部署.md",
     "GO/go_install.md",
     "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "监控告警/Prometheus/黑盒监控.md",
