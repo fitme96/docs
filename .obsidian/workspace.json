@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+                "file": "Linux/snmpd部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+                "file": "Linux/snmpd部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+                "file": "Linux/snmpd部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "监控告警/Prometheus/snmp-exporter监控防火墙.md"
+                "file": "Linux/snmpd部署.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "e02e69b9b8f1370b",
   "lastOpenFiles": [
-    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
     "监控告警/Prometheus/snmp-exporter监控防火墙.md",
+    "Linux/VIM.md",
+    "Linux/snmpd部署.md",
+    "GO/go_install.md",
+    "监控告警/Prometheus/Prometheus+alertmanager+grafana.md",
+    "监控告警/Prometheus/黑盒监控.md",
+    "监控告警/Prometheus/node-exporter监控硬件资源.md",
     "DevOps/docker/docker_install.md",
     "统一登录/openldap.md",
     "中间件/nacos.md",
     "中间件/nginx.md",
-    "Linux/VIM.md",
     "Linux/ssh.md",
     "DevOps/一些compose文件/mysql-redis-minio.md",
     "数据库-消息队列/redis.md",
@@ -172,10 +176,6 @@
     "shell/一些用法.md",
     "数据库-消息队列/pgsql/源码安装.md",
     "Linux/防火墙/iptables.md",
-    "DevOps/docker/nsenter工具.md",
-    "DevOps/docker/FAQ.md",
-    "DevOps/docker/docker下ipv6源ip获取.md",
-    "DevOps/docker/docker容器支持ipv4-ipv6双栈.md",
     "Pasted image 20240307110718.png",
     "generate_sidebar.sh",
     "中间件",
