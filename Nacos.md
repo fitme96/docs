@@ -28,6 +28,23 @@ services:
 1. 开启鉴权必须设置 token.secret.key，容器方式通过环境变量NACOS_AUTH_TOKEN设置，可以 使用Base64编码大于等于32位字符生成
 2. NACOS_AUTH_IDENTITY_VALUE 设置后不生效，可以进入web界面更改
 
+### 升级
+
+单机2.1.0 -> 2.3.1, 使用内嵌数据库
+
+```bash
+cd ${nacos_home}
+./bin/shutdown.sh
+
+备份data
+mkdir /usr/local/nacos.new/ && cp -a ${nacos_home}/data /usr/local/nacos.new/
+
+unzip nacos-server-2.3.1.zip -d /usr/local/nacos.new/
+
+/usr/local/nacos.new/bin/startup.sh -m standalone
+
+```
+
 ### 关于Nacos升级风险及处理办法
 
 [参考](https://nacos.io/zh-cn/blog/announcement-token-secret-key.html)
