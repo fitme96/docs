@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/命令.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/命令.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/命令.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/命令.md"
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Kubernetes/命令.md",
+    "Kubernetes/FAQ.md",
+    "Kubernetes/K8S-卷.md",
+    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "未命名.md",
     "Windows.md",
@@ -173,8 +175,6 @@
     "Docker/docker_install.md",
     "openldap.md",
     "nginx.md",
-    "Linux/ssh.md",
-    "一些compose文件/mysql-redis-minio.md",
     "未命名.canvas",
     "GO/基础",
     "Pasted image 20240307110718.png",
