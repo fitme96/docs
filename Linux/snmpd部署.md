@@ -46,27 +46,5 @@ v3版本获取数据
 [SNMPv3]([SNMPv3 配置及snmpwalk命令信息获取 - quliuliu2013 - 博客园](https://www.cnblogs.com/quliuliu2013/p/10056933.html))
 
 
-```
-export MIBDIRS=/usr/share/snmp/mibs
-generator generate
-
-
-echo "deb http://mirrors.ustc.edu.cn/debian stable main contrib non-free non-free-firmware
-# deb-src http://mirrors.ustc.edu.cn/debian stable main contrib non-free non-free-firmware
-deb http://mirrors.ustc.edu.cn/debian stable-updates main contrib non-free non-free-firmware
-# deb-src http://mirrors.ustc.edu.cn/debian stable-updates main contrib non-free non-free-firmware
-
-# deb http://mirrors.ustc.edu.cn/debian stable-proposed-updates main contrib non-free non-free-firmware
-# deb-src http://mirrors.ustc.edu.cn/debian stable-proposed-updates main contrib non-free non-free-firmware" > /etc/apt/sources.list.d/nofree.list
-
-apt update
-apt install -y snmp-mibs-downloader
-
-echo -e "mibs :\nmibs +" > /etc/snmp/snmp.conf
-
-
-
-```
-
 ### MIB下载
 [华为常用MIB节点](https://support.huawei.com/enterprise/zh/doc/EDOC1100035605/ee5270d1)
