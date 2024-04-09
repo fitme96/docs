@@ -67,3 +67,6 @@ echo -e "mibs :\nmibs +" > /etc/snmp/snmp.conf
 
 
 ```
+
+### MIB下载
+[华为常用MIB节点](https://support.huawei.com/enterprise/zh/doc/EDOC1100035605/ee5270d1)
