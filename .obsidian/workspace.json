@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -144,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "Windows.md",
+    "Prometheus/node-exporter监控硬件资源.md",
+    "Prometheus/Prometheus+alertmanager+grafana.md",
     "未命名.md",
+    "Windows.md",
     "redis.md",
     "证书.md",
     "DNS.md",
@@ -155,7 +159,6 @@
     "中间件/nacos.md",
     "Kubernetes/K8S-Deployment.md",
     "heartbeat+DRBD",
-    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Linux/日志.md",
     "Linux/apt离线包制作.md",
     "Linux/deb包制作.md",
@@ -163,7 +166,6 @@
     "Linux/Linux效率提升.md",
     "Linux/snmpd部署.md",
     "Prometheus/snmp-exporter监控防火墙.md",
-    "Prometheus/node-exporter监控硬件资源.md",
     "Linux/VIM.md",
     "GO/go_install.md",
     "Prometheus/黑盒监控.md",
