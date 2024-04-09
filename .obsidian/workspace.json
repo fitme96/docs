@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "Kubernetes/命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "Kubernetes/命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "Kubernetes/命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
+                "file": "Kubernetes/命令.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "Prometheus/node-exporter监控硬件资源.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
+    "Kubernetes/命令.md",
+    "Prometheus/node-exporter监控硬件资源.md",
     "未命名.md",
     "Windows.md",
     "redis.md",
@@ -174,7 +175,6 @@
     "nginx.md",
     "Linux/ssh.md",
     "一些compose文件/mysql-redis-minio.md",
-    "GO/基础.md",
     "未命名.canvas",
     "GO/基础",
     "Pasted image 20240307110718.png",
