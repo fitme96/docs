@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis.md",
+                "file": "Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis.md",
+                "file": "Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis.md",
+                "file": "Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis.md"
+                "file": "Windows.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ba6fd31dbab66416",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
+    "redis.md",
     "证书.md",
     "DNS.md",
     "Nacos.md",
@@ -172,7 +173,6 @@
     "nginx.md",
     "Linux/ssh.md",
     "一些compose文件/mysql-redis-minio.md",
-    "redis.md",
     "GO/基础.md",
     "2024-03-21.md",
     "未命名.canvas",
