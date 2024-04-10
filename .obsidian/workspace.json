@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "shell/一些用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "shell/一些用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "shell/一些用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
+                "file": "shell/一些用法.md"
               }
             }
           }
