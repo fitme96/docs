@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Prometheus/黑盒监控.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2ac00ae25611101",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Prometheus/黑盒监控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Prometheus/黑盒监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考/数据通信.md"
+                "file": "Prometheus/黑盒监控.md"
               }
             }
           }
@@ -148,14 +149,15 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "软考/基础.md",
-    "软考/数据通信.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
+    "Prometheus/黑盒监控.md",
+    "Prometheus/node-exporter监控硬件资源.md",
+    "软考/数据通信.md",
+    "软考/基础.md",
     "软考",
     "Kubernetes/命令.md",
     "Kubernetes/FAQ.md",
     "Kubernetes/K8S-卷.md",
-    "Prometheus/node-exporter监控硬件资源.md",
     "未命名.md",
     "Windows.md",
     "redis.md",
@@ -174,7 +176,6 @@
     "Prometheus/snmp-exporter监控防火墙.md",
     "Linux/VIM.md",
     "GO/go_install.md",
-    "Prometheus/黑盒监控.md",
     "Docker/docker_install.md",
     "未命名.canvas",
     "GO/基础",
