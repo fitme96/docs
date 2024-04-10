@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考/1..md",
+                "file": "软考/数据通信.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考/1..md",
+                "file": "软考/数据通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考/1..md",
+                "file": "软考/数据通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考/1..md"
+                "file": "软考/数据通信.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19a44fafff5c7694",
+  "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
+    "软考/基础.md",
+    "软考/数据通信.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
-    "软考/1..md",
     "软考",
     "Kubernetes/命令.md",
     "Kubernetes/FAQ.md",
@@ -175,7 +176,6 @@
     "GO/go_install.md",
     "Prometheus/黑盒监控.md",
     "Docker/docker_install.md",
-    "openldap.md",
     "未命名.canvas",
     "GO/基础",
     "Pasted image 20240307110718.png",
