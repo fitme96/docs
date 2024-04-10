@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "软考/1..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "软考/1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
+                "file": "软考/1..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
+                "file": "软考/1..md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ba6fd31dbab66416",
+  "active": "19a44fafff5c7694",
   "lastOpenFiles": [
+    "Prometheus/Prometheus+alertmanager+grafana.md",
+    "软考/1..md",
+    "软考",
     "Kubernetes/命令.md",
     "Kubernetes/FAQ.md",
     "Kubernetes/K8S-卷.md",
-    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "未命名.md",
     "Windows.md",
@@ -174,7 +176,6 @@
     "Prometheus/黑盒监控.md",
     "Docker/docker_install.md",
     "openldap.md",
-    "nginx.md",
     "未命名.canvas",
     "GO/基础",
     "Pasted image 20240307110718.png",
