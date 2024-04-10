@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "e2ac00ae25611101",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/黑盒监控.md"
+                "file": "Prometheus/Prometheus+alertmanager+grafana.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/黑盒监控.md",
+    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "软考/数据通信.md",
     "软考/基础.md",
