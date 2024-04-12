@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/黑盒监控.md"
+                "file": "nginx.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "shell/一些用法.md",
+    "Prometheus/snmp-exporter监控防火墙.md",
     "Prometheus/黑盒监控.md",
+    "shell/一些用法.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "软考/数据通信.md",
@@ -173,7 +174,6 @@
     "Linux/FQA.md",
     "Linux/Linux效率提升.md",
     "Linux/snmpd部署.md",
-    "Prometheus/snmp-exporter监控防火墙.md",
     "Linux/VIM.md",
     "GO/go_install.md",
     "未命名.canvas",
