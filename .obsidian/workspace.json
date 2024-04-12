@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nginx.md",
+                "file": "Mysql/备份恢复.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx.md",
+                "file": "Mysql/备份恢复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx.md",
+                "file": "Mysql/备份恢复.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx.md"
+                "file": "Mysql/备份恢复.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
+    "nginx.md",
     "Prometheus/snmp-exporter监控防火墙.md",
     "Prometheus/黑盒监控.md",
     "shell/一些用法.md",
@@ -175,7 +176,6 @@
     "Linux/Linux效率提升.md",
     "Linux/snmpd部署.md",
     "Linux/VIM.md",
-    "GO/go_install.md",
     "未命名.canvas",
     "GO/基础",
     "Pasted image 20240307110718.png",
