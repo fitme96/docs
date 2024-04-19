@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/FAQ.md",
+                "file": "Prometheus/黑盒监控.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/FAQ.md",
+                "file": "Prometheus/黑盒监控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/FAQ.md",
+                "file": "Prometheus/黑盒监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/FAQ.md"
+                "file": "Prometheus/黑盒监控.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
+    "Prometheus/node-exporter监控硬件资源.md",
+    "Prometheus/Prometheus+alertmanager+grafana.md",
+    "Kubernetes/FAQ.md",
     "Kubernetes/命令.md",
     "软考/数据通信.md",
     "软考/基础.md",
@@ -156,10 +159,7 @@
     "Prometheus/snmp-exporter监控防火墙.md",
     "Prometheus/黑盒监控.md",
     "shell/一些用法.md",
-    "Prometheus/Prometheus+alertmanager+grafana.md",
-    "Prometheus/node-exporter监控硬件资源.md",
     "软考",
-    "Kubernetes/FAQ.md",
     "Kubernetes/K8S-卷.md",
     "未命名.md",
     "Windows.md",
