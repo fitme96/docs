@@ -16,6 +16,15 @@ apt-get -qq update  apt-get -qq install -y --no-install-recommends ca-certificat
 4.  curl -k -H "Content-Type: application/json" -X PUT --data-binary [@tmp.json](/tmp.json) [http://127.0.0.1:8001/api/v1/namespaces/foo/finalize](http://127.0.0.1:8001/api/v1/namespaces/foo/finalize)
 5.  完成Terminating ns删除
 
+- 删除Terminating状态的pod
+```bash
+# 强制删除
+kubectl delete pod xxx -n xxx --force --grace-period=0
+# finalizers设置为空
+kubectl patch pod xxx -n xxx -p '{"metadata":{"finalizers":null}}'
+
+```
+
 ### V1.20.0 版本出现selfLink was empty
 
 -   详细日志：

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Kubernetes/FAQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Kubernetes/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考/数据通信.md",
+                "file": "Kubernetes/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考/数据通信.md"
+                "file": "Kubernetes/FAQ.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
-    "软考/基础.md",
+    "Kubernetes/命令.md",
     "软考/数据通信.md",
+    "软考/基础.md",
     "Mysql/备份恢复.md",
     "nginx.md",
     "Prometheus/snmp-exporter监控防火墙.md",
@@ -158,7 +159,6 @@
     "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "软考",
-    "Kubernetes/命令.md",
     "Kubernetes/FAQ.md",
     "Kubernetes/K8S-卷.md",
     "未命名.md",
