@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书.md",
+                "file": "nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书.md",
+                "file": "nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "证书.md",
+                "file": "nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书.md"
+                "file": "nginx.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ba6fd31dbab66416",
   "lastOpenFiles": [
+    "证书.md",
     "Linux/vsftpd.md",
     "Linux/VIM.md",
     "Linux/ssh.md",
@@ -173,7 +174,6 @@
     "未命名.md",
     "Windows.md",
     "redis.md",
-    "证书.md",
     "DNS.md",
     "heartbeat+DRBD",
     "未命名.canvas",
