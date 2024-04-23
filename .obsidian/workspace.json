@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb8d0f7fabec865b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx.md"
+                "file": "git.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ba6fd31dbab66416",
+  "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
+    "nginx.md",
+    "git.md",
     "证书.md",
     "Linux/vsftpd.md",
     "Linux/VIM.md",
@@ -159,7 +174,6 @@
     "shell/常用脚本/linux主机基线检查.md",
     "shell/一些用法.md",
     "Docker/docker-bind-volume.md",
-    "nginx.md",
     "Prometheus/黑盒监控.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
@@ -171,7 +185,6 @@
     "Prometheus/snmp-exporter监控防火墙.md",
     "软考",
     "Kubernetes/K8S-卷.md",
-    "未命名.md",
     "Windows.md",
     "redis.md",
     "DNS.md",
