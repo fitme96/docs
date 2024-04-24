@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/snmp-exporter监控防火墙.md",
+                "file": "证书.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/snmp-exporter监控防火墙.md",
+                "file": "证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/snmp-exporter监控防火墙.md",
+                "file": "证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/snmp-exporter监控防火墙.md"
+                "file": "证书.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
+    "Prometheus/snmp-exporter监控防火墙.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "Prometheus/黑盒监控.md",
@@ -182,7 +183,6 @@
     "软考/数据通信.md",
     "软考/基础.md",
     "Mysql/备份恢复.md",
-    "Prometheus/snmp-exporter监控防火墙.md",
     "软考",
     "Kubernetes/K8S-卷.md",
     "Windows.md",
