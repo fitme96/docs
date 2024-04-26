@@ -4,8 +4,7 @@
 
 ## docker compose
 
--   conf_yulei网络可参考host.yaml network 创建
-
+```yaml
 version: "3"
 networks:
   conf_yulei:
@@ -18,9 +17,9 @@ services:
       - ALLOW_ANONYMOUS_LOGIN=yes
     networks:
       - conf_yulei
-    #volumes:
-      #- ./zookeeper:/bitnami/zookeeper
-  # 该镜像具体配置参考 https://github.com/bitnami/bitnami-docker-kafka/blob/master/README.md
+    volumes:
+      - ./zookeeper:/bitnami/zookeeper
+
   kafka:
     image: 'bitnami/kafka:2.8.0'
     environment:
@@ -42,6 +41,9 @@ services:
 
     depends_on:
       - zookeeper
+```
+
+该镜像具体配置参考 https://github.com/bitnami/bitnami-docker-kafka/blob/master/README.md
 
 #### 创建Topic
 
@@ -56,3 +58,32 @@ kafka-console-consumer.sh --bootstrap-server [fa10::30c:28ee:fec7:32b8]:9092 --t
 
 docker  exec -ti root-kafka-1 bash
 kafka-console-producer.sh --broker-list [fa1028ee:fec7:32b8]:9092 --topic test
+
+
+## Kafka3.7
+```yaml
+version: "2"
+
+services:
+  kafka:
+    image: docker.io/bitnami/kafka:3.7
+    ports:
+      - "9092:9092"
+    volumes:
+      - "kafka_data:/bitnami"
+    environment:
+      # KRaft settings
+      - KAFKA_CFG_NODE_ID=0
+      - KAFKA_CFG_PROCESS_ROLES=controller,broker
+      - KAFKA_CFG_CONTROLLER_QUORUM_VOTERS=0@kafka:9093
+      # Listeners
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092,CONTROLLER://:9093
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://:9092
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      - KAFKA_CFG_CONTROLLER_LISTENER_NAMES=CONTROLLER
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=PLAINTEXT
+volumes:
+  kafka_data:
+    driver: local
+
+```
