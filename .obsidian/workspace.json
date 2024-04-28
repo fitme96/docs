@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kafka-ipv6.md",
+                "file": "ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kafka-ipv6.md",
+                "file": "ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kafka-ipv6.md",
+                "file": "ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kafka-ipv6.md"
+                "file": "ansible.md"
               }
             }
           }
@@ -161,6 +161,21 @@
   },
   "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
+    "DNS.md",
+    "Elasticsearch.md",
+    "Windows.md",
+    "redis.md",
+    "README.md",
+    "Pulsar.md",
+    "ProxmoxVE.md",
+    "openldap.md",
+    "nginx.md",
+    "Nacos.md",
+    "heartbeat+DRBD/heartbeat.md",
+    "ipv6支持.md",
+    "heartbeat+DRBD/脑裂处理.md",
+    "heartbeat+DRBD/DRBD.md",
+    "kafka.md",
     "Docker/nsenter工具.md",
     "Docker/FAQ.md",
     "Docker/docker下ipv6源ip获取.md",
@@ -171,22 +186,7 @@
     "Docker/docker-bind-volume.md",
     "Docker/docker_install.md",
     "Docker/官方registry.md",
-    "kafka-ipv6.md",
-    "ipv6支持.md",
     "软考/局域网.md",
-    "证书.md",
-    "Prometheus/snmp-exporter监控防火墙.md",
-    "Prometheus/Prometheus+alertmanager+grafana.md",
-    "Prometheus/node-exporter监控硬件资源.md",
-    "Prometheus/黑盒监控.md",
-    "nginx.md",
-    "git.md",
-    "Linux/vsftpd.md",
-    "Linux/VIM.md",
-    "Linux/ssh.md",
-    "shell/常用脚本/二进制安装docker.md",
-    "shell/常用脚本/主机探活.md",
-    "shell/常用脚本/docker清理.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
