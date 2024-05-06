@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "软考/数据通信.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "软考/数据通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prometheus/黑盒监控.md",
+                "file": "软考/数据通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prometheus/黑盒监控.md"
+                "file": "软考/数据通信.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
+    "软考/局域网.md",
+    "软考/基础.md",
+    "Prometheus/黑盒监控.md",
     "heartbeat+DRBD/脑裂处理.md",
     "ansible.md",
     "DNS.md",
@@ -184,9 +187,6 @@
     "Docker/docker挂载文件不同步.md",
     "Docker/Docker-Swarm.md",
     "Docker/docker-overlay与主机网络打通.md",
-    "Docker/docker-bind-volume.md",
-    "Docker/docker_install.md",
-    "Docker/官方registry.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
