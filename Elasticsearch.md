@@ -8,12 +8,11 @@ chown -R 1000:1000 /data/es
 
 
 ```yaml
-es.yaml
 
 version:  '3.9'
 services:
   es01:
-    image: hub.bugfeel.net:8443/ck-test/elasticsearch:8.1.0
+    image: elasticsearch:8.1.0
     environment:
       node.name: elasticsearch_es01
       cluster.name: sec-es-cluster
@@ -30,15 +29,9 @@ services:
       memlock:
         soft: -1
         hard: -1
-    deploy:
-      mode: replicated
-      replicas: 1
-      endpoint_mode: dnsrr
-      placement:
-        constraints:
-          - node.labels.es==01
+
   es02:
-    image: hub.bugfeel.net:8443/ck-test/elasticsearch:8.1.0
+    image: elasticsearch:8.1.0
     environment:
       node.name: elasticsearch_es02
       cluster.name: sec-es-cluster
@@ -55,15 +48,9 @@ services:
       memlock:
         soft: -1
         hard: -1
-    deploy:
-      mode: replicated
-      replicas: 1
-      endpoint_mode: dnsrr
-      placement:
-        constraints:
-          - node.labels.es==02
+
   es03:
-    image: hub.bugfeel.net:8443/ck-test/elasticsearch:8.1.0
+    image: elasticsearch:8.1.0
     environment:
       node.name: elasticsearch_es03
       cluster.name: sec-es-cluster
@@ -80,17 +67,6 @@ services:
       memlock:
         soft: -1
         hard: -1
-    deploy:
-      mode: replicated
-      replicas: 1
-      endpoint_mode: dnsrr
-      placement:
-        constraints:
-          - node.labels.es==03
-networks:
-  default:
-    external:
-      name: sec-network
 
 
 ```
