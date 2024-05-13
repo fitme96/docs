@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker_install.md",
+                "file": "Prometheus/node-exporter监控硬件资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_install.md",
+                "file": "Prometheus/node-exporter监控硬件资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_install.md",
+                "file": "Prometheus/node-exporter监控硬件资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker_install.md"
+                "file": "Prometheus/node-exporter监控硬件资源.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
-    "Linux/snmpd部署.md",
+    "Prometheus/Prometheus+alertmanager+grafana.md",
     "Docker/docker_install.md",
+    "Linux/snmpd部署.md",
     "Elasticsearch.md",
     "kafka.md",
     "软考/数据通信.md",
@@ -186,7 +187,6 @@
     "Docker/nsenter工具.md",
     "Docker/FAQ.md",
     "Docker/docker下ipv6源ip获取.md",
-    "Docker/docker容器支持ipv4-ipv6双栈.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
