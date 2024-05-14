@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "证书.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/一些用法.md",
+                "file": "证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/一些用法.md"
+                "file": "证书.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "fb8d0f7fabec865b",
   "lastOpenFiles": [
+    "shell/一些用法.md",
     "Prometheus/node-exporter监控硬件资源.md",
     "Prometheus/Prometheus+alertmanager+grafana.md",
     "Docker/docker_install.md",
@@ -186,7 +187,6 @@
     "ipv6支持.md",
     "heartbeat+DRBD/DRBD.md",
     "Docker/nsenter工具.md",
-    "Docker/FAQ.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
