@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "Linux/防火墙/iptables.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "Linux/防火墙/iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "Linux/防火墙/iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ssh.md"
+                "file": "Linux/防火墙/iptables.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "07383b5c614c9656",
   "lastOpenFiles": [
+    "Linux/ssh.md",
     "nginx.md",
     "shell/常用脚本/nginx防止cc攻击.md",
     "证书.md",
@@ -173,7 +175,6 @@
     "openldap.md",
     "Nacos.md",
     "heartbeat+DRBD/heartbeat.md",
-    "ipv6支持.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
