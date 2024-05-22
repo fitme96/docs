@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/vsftpd.md",
+                "file": "软考/局域网.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/vsftpd.md",
+                "file": "软考/局域网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/vsftpd.md",
+                "file": "软考/局域网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/vsftpd.md"
+                "file": "软考/局域网.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "2309155f83c631a8",
   "lastOpenFiles": [
+    "软考/基础.md",
+    "Linux/vsftpd.md",
     "Linux/防火墙/iptables.md",
     "Linux/ssh.md",
     "nginx.md",
@@ -162,7 +164,6 @@
     "kafka.md",
     "软考/数据通信.md",
     "软考/局域网.md",
-    "软考/基础.md",
     "Prometheus/黑盒监控.md",
     "heartbeat+DRBD/脑裂处理.md",
     "ansible.md",
@@ -173,7 +174,6 @@
     "Pulsar.md",
     "ProxmoxVE.md",
     "openldap.md",
-    "Nacos.md",
     "软考",
     "heartbeat+DRBD",
     "未命名.canvas",
