@@ -47,6 +47,7 @@ tar xf openssh-9.7p1.tar.gz && cd openssh-9.7p1
 
 make -j4 && make install
 /usr/local/openssh.97p1/bin/ssh -V
+systemctl stop sshd
 mv /usr/sbin/sshd /usr/sbin/sshd.old
 ln -sv /usr/local/openssh.97p1/sbin/sshd  /usr/sbin/sshd
 
