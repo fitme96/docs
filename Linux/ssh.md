@@ -93,3 +93,14 @@ systemctl restart sshd
 ```
 yum -y remove telnet-server
 ```
+
+### 升级openssl3.x版本
+
+- 报错Can't locate IPC/Cmd.pm 
+
+```
+yum install -y perl-CPAN
+perl -MCPAN -e shell
+cpan[1]> install IPC/Cmd.pm 
+
+```
